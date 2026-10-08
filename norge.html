@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="no">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Statlete — guess the athlete</title>
-<meta name="description" content="A daily-style guessing game for track and field: work out the mystery athlete from country, age, medals, points score and revealed personal bests.">
+<title>Statlete Norge — gjett utøveren</title>
+<meta name="description" content="Gjett den norske friidrettsutøveren ut fra klubb, krets, fødselsår, UM-medaljer, Tyrvingpoeng og personlige rekorder.">
 <link rel="icon" href="data:,">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,10 +16,10 @@
 
   <header class="site-header">
     <h1>Statlete</h1>
-    <p class="tagline">Guess the mystery track and field athlete.</p>
-    <nav class="modes" aria-label="Game mode">
-      <a href="index.html" aria-current="page">World</a>
-      <a href="norge.html">Norway</a>
+    <p class="tagline">Gjett den norske friidrettsutøveren.</p>
+    <nav class="modes" aria-label="Spillmodus">
+      <a href="index.html">Verden</a>
+      <a href="norge.html" aria-current="page">Norge</a>
     </nav>
   </header>
 
@@ -27,29 +27,28 @@
 
   <main>
     <section aria-labelledby="guesses-heading">
-      <h2 id="guesses-heading" class="sr-only">Your guesses</h2>
+      <h2 id="guesses-heading" class="sr-only">Gjettene dine</h2>
 
       <form id="guess-form" autocomplete="off">
-        <label for="guess-input" class="sr-only">Athlete name</label>
-        <input id="guess-input" list="athlete-list" placeholder="Type an athlete's name" autocomplete="off">
-        <button type="submit">Guess</button>
+        <label for="guess-input" class="sr-only">Utøvernavn</label>
+        <input id="guess-input" list="athlete-list" placeholder="Skriv et utøvernavn" autocomplete="off">
+        <button type="submit">Gjett</button>
       </form>
       <datalist id="athlete-list"></datalist>
 
       <p id="error" class="error" role="alert" hidden></p>
       <p id="status" class="status" role="status"></p>
-      <button id="reset" class="reset" hidden>Play again</button>
+      <button id="reset" class="reset" hidden>Spill igjen</button>
 
       <div id="guesses" class="guess-stack"></div>
     </section>
   </main>
 
-
   <footer class="site-footer">
-    <p>Data drawn from World Athletics athlete profiles. Not affiliated with or endorsed by World Athletics.</p>
+    <p>Data fra minfriidrettsstatistikk.info. UM-medaljer og poeng (Tyrvingtabellen) er regnet ut av oss. Ikke tilknyttet Norges Friidrettsforbund.</p>
   </footer>
 
 </div>
-<script src="script.js"></script>
+<script src="norge.js"></script>
 </body>
 </html>

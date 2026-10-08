@@ -1,0 +1,46 @@
+name: Update Norge data
+
+# Rebuilds data/athletes_mode2.json from the profile pages saved in scraper/mode2/pages/.
+# Runs automatically when you push new/changed pages (or the scraper files), or manually
+# from the Actions tab. No schedule: the pages only change when you add them.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scraper/mode2/pages/**'
+      - 'scraper/mode2/*.py'
+      - 'scraper/mode2/*.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Build athletes_mode2.json
+        working-directory: scraper/mode2
+        run: python scrape_minstat.py --out ../../data/athletes_mode2.json
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/athletes_mode2.json scraper/mode2/clubs_regions.json scraper/mode2/missing_clubs.txt
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Update Norge data"
+          git pull --rebase origin main
+          git push origin main

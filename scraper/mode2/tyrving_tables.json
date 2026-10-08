@@ -1,0 +1,5082 @@
+{
+ "Gutter-19": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 7.2,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 9.3,
+   "kvot": 2.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 11.25,
+   "kvot": 1.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 22.5,
+   "kvot": 0.85,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 36.15,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 50.4,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 82.0,
+   "kvot": 2.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 114.0,
+   "kvot": 1.8,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 150.0,
+   "kvot": 1.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 240.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 338.0,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "",
+   "ref": 523.0,
+   "kvot": 0.27,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "",
+   "ref": 910.0,
+   "kvot": 0.15,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "",
+   "ref": 1950.0,
+   "kvot": 0.06,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 240.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 505.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 788.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1350.0,
+   "kvot": 0.11,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "Kappgang",
+   "ref": 2850.0,
+   "kvot": 0.05,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "20000 m",
+   "qual": "Kappgang",
+   "ref": 5880.0,
+   "kvot": 0.02,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "110 m hekk",
+   "qual": "100,0cm/9,14m",
+   "ref": 15.0,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "110 m hekk",
+   "qual": "106,7cm/9,14m",
+   "ref": 15.4,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/18,29m",
+   "ref": 26.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "91,4cm/35m",
+   "ref": 40.0,
+   "kvot": 0.46,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m hekk",
+   "qual": "91,4cm/35m",
+   "ref": 55.5,
+   "kvot": 0.34,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m hinder",
+   "qual": "91,4cm",
+   "ref": 370.0,
+   "kvot": 0.41,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m hinder",
+   "qual": "91,4cm",
+   "ref": 585.0,
+   "kvot": 0.27,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.99,
+   "kvot": 7.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.61,
+   "kvot": 8.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 4.5,
+   "kvot": 7.0,
+   "f1": 1.7,
+   "f2": 3.5,
+   "f3": 7.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 6.95,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 3.15,
+   "kvot": 5.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 14.3,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "6kg",
+   "ref": 15.2,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "1,75kg",
+   "ref": 48.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Slegge",
+   "qual": "6kg/121,5cm",
+   "ref": 62.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,8kg",
+   "ref": 62.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  }
+ ],
+ "Jenter-19": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 7.9,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 10.1,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 12.4,
+   "kvot": 1.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 25.55,
+   "kvot": 0.78,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 40.5,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 57.0,
+   "kvot": 0.38,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 94.0,
+   "kvot": 2.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 132.5,
+   "kvot": 1.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 179.0,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 275.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 385.0,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "",
+   "ref": 600.0,
+   "kvot": 0.23,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "",
+   "ref": 1055.0,
+   "kvot": 0.13,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "",
+   "ref": 2280.0,
+   "kvot": 0.06,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 266.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 570.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 895.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1524.0,
+   "kvot": 0.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "Kappgang",
+   "ref": 3300.0,
+   "kvot": 0.05,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "20000 m",
+   "qual": "Kappgang",
+   "ref": 6720.0,
+   "kvot": 0.02,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m hekk",
+   "qual": "84,0cm/8,5m",
+   "ref": 14.7,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/19m",
+   "ref": 29.5,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "76,2cm/35m",
+   "ref": 45.2,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m hekk",
+   "qual": "76,2cm/35m",
+   "ref": 62.5,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m hinder",
+   "qual": "76,2cm",
+   "ref": 410.0,
+   "kvot": 0.35,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m hinder",
+   "qual": "76,2cm",
+   "ref": 650.0,
+   "kvot": 0.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.7,
+   "kvot": 7.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.38,
+   "kvot": 9.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 3.4,
+   "kvot": 8.0,
+   "f1": 2.0,
+   "f2": 4.0,
+   "f3": 8.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 5.7,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.66,
+   "kvot": 6.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 12.6,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "4kg",
+   "ref": 11.7,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "1kg",
+   "ref": 43.0,
+   "kvot": 0.6,
+   "f1": 0.15,
+   "f2": 0.3,
+   "f3": 0.6
+  },
+  {
+   "event": "Slegge",
+   "qual": "4kg/119,5cm",
+   "ref": 48.0,
+   "kvot": 0.5,
+   "f1": 0.12,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,6kg",
+   "ref": 43.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  }
+ ],
+ "Gutter-18": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 7.25,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 9.35,
+   "kvot": 2.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 11.35,
+   "kvot": 1.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 22.65,
+   "kvot": 0.85,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 36.45,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 51.0,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 83.0,
+   "kvot": 2.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 115.5,
+   "kvot": 1.8,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 153.0,
+   "kvot": 1.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 242.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 341.0,
+   "kvot": 0.45,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "",
+   "ref": 530.0,
+   "kvot": 0.27,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "",
+   "ref": 930.0,
+   "kvot": 0.15,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "",
+   "ref": 1980.0,
+   "kvot": 0.06,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 242.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 510.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 796.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1365.0,
+   "kvot": 0.11,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "Kappgang",
+   "ref": 2890.0,
+   "kvot": 0.05,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "20000 m",
+   "qual": "Kappgang",
+   "ref": 6000.0,
+   "kvot": 0.02,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "110 m hekk",
+   "qual": "100,0cm/9,14m",
+   "ref": 15.3,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "110 m hekk",
+   "qual": "106,7cm/9,14m",
+   "ref": 15.7,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/18,29m",
+   "ref": 26.5,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "91,4cm/35m",
+   "ref": 40.5,
+   "kvot": 0.46,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m hekk",
+   "qual": "91,4cm/35m",
+   "ref": 56.0,
+   "kvot": 0.34,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m hinder",
+   "qual": "91,4cm",
+   "ref": 375.0,
+   "kvot": 0.41,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m hinder",
+   "qual": "91,4cm",
+   "ref": 595.0,
+   "kvot": 0.27,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.96,
+   "kvot": 7.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.59,
+   "kvot": 8.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 4.3,
+   "kvot": 7.0,
+   "f1": 1.7,
+   "f2": 3.5,
+   "f3": 7.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 6.8,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 3.1,
+   "kvot": 5.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 14.0,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "6kg",
+   "ref": 14.6,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "1,75kg",
+   "ref": 46.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Slegge",
+   "qual": "6kg/121,5cm",
+   "ref": 56.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,8kg",
+   "ref": 59.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  }
+ ],
+ "Jenter-18": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 7.95,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 10.15,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 12.5,
+   "kvot": 1.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 25.7,
+   "kvot": 0.78,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 40.8,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 57.5,
+   "kvot": 0.38,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 95.0,
+   "kvot": 2.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 133.0,
+   "kvot": 1.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 180.0,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 277.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 389.0,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "",
+   "ref": 607.0,
+   "kvot": 0.23,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "",
+   "ref": 1065.0,
+   "kvot": 0.13,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "",
+   "ref": 2310.0,
+   "kvot": 0.06,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 268.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 574.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 900.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1538.0,
+   "kvot": 0.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "Kappgang",
+   "ref": 3330.0,
+   "kvot": 0.05,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "20000 m",
+   "qual": "Kappgang",
+   "ref": 6810.0,
+   "kvot": 0.02,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m hekk",
+   "qual": "84,0cm/8,5m",
+   "ref": 14.9,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/19m",
+   "ref": 29.7,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "76,2cm/35m",
+   "ref": 45.5,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m hekk",
+   "qual": "76,2cm/35m",
+   "ref": 63.1,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m hinder",
+   "qual": "76,2cm",
+   "ref": 420.0,
+   "kvot": 0.35,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m hinder",
+   "qual": "76,2cm",
+   "ref": 670.0,
+   "kvot": 0.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.68,
+   "kvot": 7.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.37,
+   "kvot": 9.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 3.3,
+   "kvot": 8.0,
+   "f1": 2.0,
+   "f2": 4.0,
+   "f3": 8.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 5.63,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.64,
+   "kvot": 6.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 12.4,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "4kg",
+   "ref": 11.4,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "1kg",
+   "ref": 42.0,
+   "kvot": 0.6,
+   "f1": 0.15,
+   "f2": 0.3,
+   "f3": 0.6
+  },
+  {
+   "event": "Slegge",
+   "qual": "4kg/119,5cm",
+   "ref": 46.0,
+   "kvot": 0.5,
+   "f1": 0.12,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,6kg",
+   "ref": 42.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  }
+ ],
+ "Gutter-17": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 7.3,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 9.45,
+   "kvot": 2.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 11.5,
+   "kvot": 1.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 23.0,
+   "kvot": 0.85,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 36.85,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 51.5,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 84.0,
+   "kvot": 2.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 117.5,
+   "kvot": 1.8,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 156.0,
+   "kvot": 1.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 246.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 346.0,
+   "kvot": 0.45,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "",
+   "ref": 540.0,
+   "kvot": 0.27,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "",
+   "ref": 950.0,
+   "kvot": 0.15,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 246.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 518.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 810.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1395.0,
+   "kvot": 0.11,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "Kappgang",
+   "ref": 2960.0,
+   "kvot": 0.05,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "110 m hekk",
+   "qual": "91,4cm/9,14m",
+   "ref": 15.3,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "110 m hekk",
+   "qual": "100,0cm/9,14m",
+   "ref": 15.8,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/18,29m",
+   "ref": 27.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "84,0cm/35m",
+   "ref": 41.0,
+   "kvot": 0.46,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m hekk",
+   "qual": "84,0cm/35m",
+   "ref": 57.0,
+   "kvot": 0.34,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m hinder",
+   "qual": "91,4cm",
+   "ref": 385.0,
+   "kvot": 0.41,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m hinder",
+   "qual": "91,4cm",
+   "ref": 610.0,
+   "kvot": 0.27,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.93,
+   "kvot": 7.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.55,
+   "kvot": 8.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 4.05,
+   "kvot": 7.0,
+   "f1": 1.7,
+   "f2": 3.5,
+   "f3": 7.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 6.6,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 3.05,
+   "kvot": 5.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 13.7,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "5kg",
+   "ref": 15.8,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "1,5kg",
+   "ref": 48.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Slegge",
+   "qual": "5kg/120cm",
+   "ref": 59.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,7kg",
+   "ref": 60.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  }
+ ],
+ "Jenter-17": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 8.0,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 10.25,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 12.6,
+   "kvot": 1.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 25.9,
+   "kvot": 0.78,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 41.2,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 58.0,
+   "kvot": 0.38,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 96.0,
+   "kvot": 2.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 134.0,
+   "kvot": 1.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 181.5,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 279.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 393.0,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "",
+   "ref": 615.0,
+   "kvot": 0.23,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "",
+   "ref": 1080.0,
+   "kvot": 0.13,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 270.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 578.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 906.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1555.0,
+   "kvot": 0.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "Kappgang",
+   "ref": 3390.0,
+   "kvot": 0.05,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m hekk",
+   "qual": "76,2cm/8,5m",
+   "ref": 15.0,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/19m",
+   "ref": 30.0,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "76,2cm/35m",
+   "ref": 45.9,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m hinder",
+   "qual": "76,2cm",
+   "ref": 430.0,
+   "kvot": 0.35,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m hinder",
+   "qual": "76,2cm",
+   "ref": 700.0,
+   "kvot": 0.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.66,
+   "kvot": 7.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.36,
+   "kvot": 9.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 3.2,
+   "kvot": 8.0,
+   "f1": 2.0,
+   "f2": 4.0,
+   "f3": 8.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 5.55,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.62,
+   "kvot": 6.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 12.2,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "3kg",
+   "ref": 12.6,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "1kg",
+   "ref": 40.0,
+   "kvot": 0.6,
+   "f1": 0.15,
+   "f2": 0.3,
+   "f3": 0.6
+  },
+  {
+   "event": "Slegge",
+   "qual": "3kg/119,5cm",
+   "ref": 44.0,
+   "kvot": 0.5,
+   "f1": 0.12,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,5kg",
+   "ref": 42.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  }
+ ],
+ "Gutter-16": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 7.4,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 9.6,
+   "kvot": 2.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 11.7,
+   "kvot": 1.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 23.5,
+   "kvot": 0.85,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 37.6,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 52.5,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 86.0,
+   "kvot": 2.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 120.0,
+   "kvot": 1.8,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 159.0,
+   "kvot": 1.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 252.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 355.0,
+   "kvot": 0.45,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "",
+   "ref": 552.0,
+   "kvot": 0.27,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 254.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 531.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 830.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1440.0,
+   "kvot": 0.11,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "Kappgang",
+   "ref": 3060.0,
+   "kvot": 0.05,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m hekk",
+   "qual": "91,4cm/8,5m",
+   "ref": 14.5,
+   "kvot": 1.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/18,29m",
+   "ref": 27.6,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "84,0cm/35m",
+   "ref": 41.8,
+   "kvot": 0.46,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m hinder",
+   "qual": "76,2cm",
+   "ref": 280.0,
+   "kvot": 0.55,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.88,
+   "kvot": 7.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.5,
+   "kvot": 8.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 3.8,
+   "kvot": 7.0,
+   "f1": 1.7,
+   "f2": 3.5,
+   "f3": 7.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 6.4,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.98,
+   "kvot": 5.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 13.3,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "5kg",
+   "ref": 14.6,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "1,5kg",
+   "ref": 45.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Slegge",
+   "qual": "5kg/120cm",
+   "ref": 52.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,7kg",
+   "ref": 55.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  }
+ ],
+ "Jenter-16": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 8.05,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 10.35,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 12.75,
+   "kvot": 1.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 26.15,
+   "kvot": 0.78,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 41.7,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 58.8,
+   "kvot": 0.38,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 97.0,
+   "kvot": 2.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 136.0,
+   "kvot": 1.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 184.0,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 282.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 398.0,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "",
+   "ref": 625.0,
+   "kvot": 0.23,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 272.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 588.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 920.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1585.0,
+   "kvot": 0.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "Kappgang",
+   "ref": 3450.0,
+   "kvot": 0.05,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m hekk",
+   "qual": "76,2cm/8m",
+   "ref": 12.2,
+   "kvot": 1.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/19m",
+   "ref": 30.4,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "76,2cm/35m",
+   "ref": 46.4,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m hinder",
+   "qual": "76,2cm",
+   "ref": 325.0,
+   "kvot": 0.46,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.64,
+   "kvot": 7.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.35,
+   "kvot": 9.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 3.1,
+   "kvot": 8.0,
+   "f1": 2.0,
+   "f2": 4.0,
+   "f3": 8.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 5.47,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.59,
+   "kvot": 6.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 11.9,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "3kg",
+   "ref": 12.0,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "1kg",
+   "ref": 37.0,
+   "kvot": 0.6,
+   "f1": 0.15,
+   "f2": 0.3,
+   "f3": 0.6
+  },
+  {
+   "event": "Slegge",
+   "qual": "3kg/119,5cm",
+   "ref": 41.0,
+   "kvot": 0.5,
+   "f1": 0.12,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,5kg",
+   "ref": 40.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  }
+ ],
+ "Gutter-15": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 7.55,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 9.8,
+   "kvot": 2.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 11.95,
+   "kvot": 1.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 24.0,
+   "kvot": 0.85,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 38.6,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 54.3,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 88.5,
+   "kvot": 2.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 124.0,
+   "kvot": 1.8,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 164.0,
+   "kvot": 1.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 260.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 365.0,
+   "kvot": 0.45,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 262.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 548.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 854.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1500.0,
+   "kvot": 0.11,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "Kappgang",
+   "ref": 3180.0,
+   "kvot": 0.05,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m hekk",
+   "qual": "84,0cm/8,5m",
+   "ref": 14.0,
+   "kvot": 1.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/18,29m",
+   "ref": 28.4,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "76,2cm/35m",
+   "ref": 43.0,
+   "kvot": 0.46,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m hinder",
+   "qual": "76,2cm",
+   "ref": 288.0,
+   "kvot": 0.55,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.8,
+   "kvot": 7.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.44,
+   "kvot": 8.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 3.5,
+   "kvot": 7.0,
+   "f1": 1.7,
+   "f2": 3.5,
+   "f3": 7.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 6.15,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.88,
+   "kvot": 5.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 12.8,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "4kg",
+   "ref": 15.3,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "1kg",
+   "ref": 51.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Slegge",
+   "qual": "4kg/119,5cm",
+   "ref": 50.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,6kg",
+   "ref": 52.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  }
+ ],
+ "Jenter-15": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 8.15,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 10.5,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 12.9,
+   "kvot": 1.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 26.5,
+   "kvot": 0.78,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 42.5,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 60.0,
+   "kvot": 0.38,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 98.5,
+   "kvot": 2.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 138.5,
+   "kvot": 1.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 186.5,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 286.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 406.0,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 275.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 600.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 936.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1615.0,
+   "kvot": 0.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "10000 m",
+   "qual": "Kappgang",
+   "ref": 3540.0,
+   "kvot": 0.05,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m hekk",
+   "qual": "76,2cm/8m",
+   "ref": 12.5,
+   "kvot": 1.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/19m",
+   "ref": 31.0,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "76,2cm/35m",
+   "ref": 47.0,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m hinder",
+   "qual": "76,2cm",
+   "ref": 330.0,
+   "kvot": 0.46,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.61,
+   "kvot": 7.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.33,
+   "kvot": 9.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 2.95,
+   "kvot": 8.0,
+   "f1": 2.0,
+   "f2": 4.0,
+   "f3": 8.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 5.36,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.54,
+   "kvot": 6.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 11.4,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "3kg",
+   "ref": 11.4,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "0,75kg",
+   "ref": 43.0,
+   "kvot": 0.6,
+   "f1": 0.15,
+   "f2": 0.3,
+   "f3": 0.6
+  },
+  {
+   "event": "Slegge",
+   "qual": "3kg/119,5cm",
+   "ref": 38.0,
+   "kvot": 0.5,
+   "f1": 0.12,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,5kg",
+   "ref": 38.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  }
+ ],
+ "Gutter-14": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 7.75,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 10.05,
+   "kvot": 2.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 12.35,
+   "kvot": 1.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 24.8,
+   "kvot": 0.85,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 40.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 56.5,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 91.0,
+   "kvot": 2.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 129.0,
+   "kvot": 1.8,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 169.0,
+   "kvot": 1.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 268.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 380.0,
+   "kvot": 0.45,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 271.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 570.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 892.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1600.0,
+   "kvot": 0.11,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m hekk",
+   "qual": "84,0cm/8m",
+   "ref": 12.05,
+   "kvot": 1.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/18,29m",
+   "ref": 29.2,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "76,2cm/35m",
+   "ref": 44.7,
+   "kvot": 0.46,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m hinder",
+   "qual": "76,2cm",
+   "ref": 300.0,
+   "kvot": 0.55,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.72,
+   "kvot": 7.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.37,
+   "kvot": 8.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 3.2,
+   "kvot": 7.0,
+   "f1": 1.7,
+   "f2": 3.5,
+   "f3": 7.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 5.75,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.75,
+   "kvot": 5.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 12.0,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "4kg",
+   "ref": 13.3,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "1kg",
+   "ref": 44.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Slegge",
+   "qual": "4kg/119,5cm",
+   "ref": 41.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,6kg",
+   "ref": 46.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Liten ball",
+   "qual": "150g",
+   "ref": 80.0,
+   "kvot": 0.3,
+   "f1": 0.08,
+   "f2": 0.15,
+   "f3": 0.3
+  }
+ ],
+ "Jenter-14": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 8.25,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 10.65,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 13.1,
+   "kvot": 1.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 27.1,
+   "kvot": 0.78,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 43.4,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "400 m",
+   "qual": "",
+   "ref": 61.6,
+   "kvot": 0.38,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 100.0,
+   "kvot": 2.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "800 m",
+   "qual": "",
+   "ref": 141.0,
+   "kvot": 1.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "",
+   "ref": 189.0,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 295.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "",
+   "ref": 418.0,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 280.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 620.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 962.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "5000 m",
+   "qual": "Kappgang",
+   "ref": 1660.0,
+   "kvot": 0.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m hekk",
+   "qual": "76,2cm/7,5m",
+   "ref": 9.7,
+   "kvot": 1.9,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "76,2cm/19m",
+   "ref": 31.6,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m hekk",
+   "qual": "76,2cm/35m",
+   "ref": 48.0,
+   "kvot": 0.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m hinder",
+   "qual": "76,2cm",
+   "ref": 340.0,
+   "kvot": 0.46,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.58,
+   "kvot": 7.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.3,
+   "kvot": 9.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 2.8,
+   "kvot": 8.0,
+   "f1": 2.0,
+   "f2": 4.0,
+   "f3": 8.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 5.25,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.48,
+   "kvot": 6.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 10.8,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "3kg",
+   "ref": 10.8,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "0,75kg",
+   "ref": 38.0,
+   "kvot": 0.6,
+   "f1": 0.15,
+   "f2": 0.3,
+   "f3": 0.6
+  },
+  {
+   "event": "Slegge",
+   "qual": "3kg/119,5cm",
+   "ref": 34.0,
+   "kvot": 0.5,
+   "f1": 0.12,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,4kg",
+   "ref": 39.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Liten ball",
+   "qual": "150g",
+   "ref": 62.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  }
+ ],
+ "Gutter-13": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 8.0,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 10.4,
+   "kvot": 2.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 12.8,
+   "kvot": 1.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 26.0,
+   "kvot": 0.85,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 42.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 94.5,
+   "kvot": 2.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 278.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 282.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 594.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 924.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m hekk",
+   "qual": "76,2cm/7,5m",
+   "ref": 9.8,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "68,0cm/18,29m",
+   "ref": 31.2,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.61,
+   "kvot": 7.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.29,
+   "kvot": 8.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 2.9,
+   "kvot": 7.0,
+   "f1": 1.7,
+   "f2": 3.5,
+   "f3": 7.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 5.35,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.6,
+   "kvot": 5.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 11.1,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "3kg",
+   "ref": 13.5,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "0,75kg",
+   "ref": 40.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Slegge",
+   "qual": "3kg/119,5cm",
+   "ref": 37.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,4kg",
+   "ref": 45.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Liten ball",
+   "qual": "150g",
+   "ref": 70.0,
+   "kvot": 0.3,
+   "f1": 0.08,
+   "f2": 0.15,
+   "f3": 0.3
+  }
+ ],
+ "Jenter-13": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 8.4,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 10.85,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 13.4,
+   "kvot": 1.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 27.7,
+   "kvot": 0.78,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 44.5,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 102.0,
+   "kvot": 2.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 305.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 288.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "2000 m",
+   "qual": "Kappgang",
+   "ref": 640.0,
+   "kvot": 0.3,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "3000 m",
+   "qual": "Kappgang",
+   "ref": 1002.0,
+   "kvot": 0.18,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m hekk",
+   "qual": "76,2cm/7,5m",
+   "ref": 10.1,
+   "kvot": 1.9,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "68,0cm/19m",
+   "ref": 32.4,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.52,
+   "kvot": 7.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.26,
+   "kvot": 9.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 2.5,
+   "kvot": 8.0,
+   "f1": 2.0,
+   "f2": 4.0,
+   "f3": 8.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 5.0,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.4,
+   "kvot": 6.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 10.2,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "2kg",
+   "ref": 11.2,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "0,6kg",
+   "ref": 38.0,
+   "kvot": 0.6,
+   "f1": 0.15,
+   "f2": 0.3,
+   "f3": 0.6
+  },
+  {
+   "event": "Slegge",
+   "qual": "2kg/110cm",
+   "ref": 38.0,
+   "kvot": 0.5,
+   "f1": 0.12,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,4kg",
+   "ref": 36.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Liten ball",
+   "qual": "150g",
+   "ref": 56.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  }
+ ],
+ "Gutter-12": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 8.4,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 10.9,
+   "kvot": 2.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 13.5,
+   "kvot": 1.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 27.6,
+   "kvot": 0.85,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 45.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 99.0,
+   "kvot": 2.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 294.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 300.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m hekk",
+   "qual": "76,2cm/7m",
+   "ref": 10.2,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "68,0cm/18,29m",
+   "ref": 32.8,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.5,
+   "kvot": 7.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.2,
+   "kvot": 8.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 2.6,
+   "kvot": 7.0,
+   "f1": 1.7,
+   "f2": 3.5,
+   "f3": 7.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 4.95,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.45,
+   "kvot": 5.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 10.1,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "3kg",
+   "ref": 11.3,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "0,75kg",
+   "ref": 32.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Slegge",
+   "qual": "2kg/110cm",
+   "ref": 38.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,4kg",
+   "ref": 38.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Liten ball",
+   "qual": "150g",
+   "ref": 63.0,
+   "kvot": 0.3,
+   "f1": 0.08,
+   "f2": 0.15,
+   "f3": 0.3
+  },
+  {
+   "event": "Slengball",
+   "qual": "1kg/Kort reim",
+   "ref": 36.0,
+   "kvot": 0.3,
+   "f1": 0.08,
+   "f2": 0.15,
+   "f3": 0.3
+  }
+ ],
+ "Jenter-12": [
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 8.55,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 11.1,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "100 m",
+   "qual": "",
+   "ref": 13.8,
+   "kvot": 1.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 28.5,
+   "kvot": 0.78,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "300 m",
+   "qual": "",
+   "ref": 45.8,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 105.0,
+   "kvot": 2.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1500 m",
+   "qual": "",
+   "ref": 315.0,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 303.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m hekk",
+   "qual": "76,2cm/7m",
+   "ref": 10.5,
+   "kvot": 1.9,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "68,0cm/19m",
+   "ref": 34.0,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.44,
+   "kvot": 7.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.2,
+   "kvot": 9.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 2.2,
+   "kvot": 8.0,
+   "f1": 2.0,
+   "f2": 4.0,
+   "f3": 8.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 4.7,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.3,
+   "kvot": 6.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 9.5,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "2kg",
+   "ref": 10.2,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "0,6kg",
+   "ref": 32.0,
+   "kvot": 0.6,
+   "f1": 0.15,
+   "f2": 0.3,
+   "f3": 0.6
+  },
+  {
+   "event": "Slegge",
+   "qual": "2kg/110cm",
+   "ref": 33.0,
+   "kvot": 0.5,
+   "f1": 0.12,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,4kg",
+   "ref": 32.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Liten ball",
+   "qual": "150g",
+   "ref": 50.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Slengball",
+   "qual": "1kg/Kort reim",
+   "ref": 31.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  }
+ ],
+ "Gutter-11": [
+  {
+   "event": "40 m",
+   "qual": "",
+   "ref": 6.4,
+   "kvot": 3.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 8.8,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 11.55,
+   "kvot": 2.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 29.2,
+   "kvot": 0.85,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 105.0,
+   "kvot": 2.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 320.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m hekk",
+   "qual": "68,0cm/6,5m",
+   "ref": 10.5,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "68,0cm/18,29m",
+   "ref": 34.8,
+   "kvot": 0.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.38,
+   "kvot": 7.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.1,
+   "kvot": 8.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 2.3,
+   "kvot": 7.0,
+   "f1": 1.7,
+   "f2": 3.5,
+   "f3": 7.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 4.55,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.28,
+   "kvot": 5.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 9.2,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "2kg",
+   "ref": 10.5,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "0,6kg",
+   "ref": 28.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Slegge",
+   "qual": "2kg/110cm",
+   "ref": 30.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,4kg",
+   "ref": 32.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Liten ball",
+   "qual": "150g",
+   "ref": 55.0,
+   "kvot": 0.3,
+   "f1": 0.08,
+   "f2": 0.15,
+   "f3": 0.3
+  },
+  {
+   "event": "Slengball",
+   "qual": "1kg/Kort reim",
+   "ref": 30.0,
+   "kvot": 0.3,
+   "f1": 0.08,
+   "f2": 0.15,
+   "f3": 0.3
+  }
+ ],
+ "Jenter-11": [
+  {
+   "event": "40 m",
+   "qual": "",
+   "ref": 6.4,
+   "kvot": 3.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 8.85,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 11.6,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m",
+   "qual": "",
+   "ref": 29.7,
+   "kvot": 0.78,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 110.0,
+   "kvot": 2.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "1000 m",
+   "qual": "Kappgang",
+   "ref": 320.0,
+   "kvot": 0.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m hekk",
+   "qual": "68,0cm/6,5m",
+   "ref": 10.9,
+   "kvot": 1.9,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "200 m hekk",
+   "qual": "68,0cm/19m",
+   "ref": 36.0,
+   "kvot": 0.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.34,
+   "kvot": 7.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.1,
+   "kvot": 9.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 2.0,
+   "kvot": 8.0,
+   "f1": 2.0,
+   "f2": 4.0,
+   "f3": 8.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 4.35,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.18,
+   "kvot": 6.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 8.8,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "2kg",
+   "ref": 8.8,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "0,6kg",
+   "ref": 26.0,
+   "kvot": 0.6,
+   "f1": 0.15,
+   "f2": 0.3,
+   "f3": 0.6
+  },
+  {
+   "event": "Slegge",
+   "qual": "2kg/110cm",
+   "ref": 27.0,
+   "kvot": 0.5,
+   "f1": 0.12,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,4kg",
+   "ref": 27.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Liten ball",
+   "qual": "150g",
+   "ref": 43.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Slengball",
+   "qual": "1kg/Kort reim",
+   "ref": 26.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  }
+ ],
+ "Gutter-10": [
+  {
+   "event": "40 m",
+   "qual": "",
+   "ref": 6.6,
+   "kvot": 3.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 9.2,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 12.15,
+   "kvot": 2.2,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 112.0,
+   "kvot": 2.6,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m hekk",
+   "qual": "68,0cm/6,5m",
+   "ref": 11.3,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.25,
+   "kvot": 7.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.0,
+   "kvot": 8.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 2.0,
+   "kvot": 7.0,
+   "f1": 1.7,
+   "f2": 3.5,
+   "f3": 7.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 4.15,
+   "kvot": 2.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.1,
+   "kvot": 5.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 8.2,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "2kg",
+   "ref": 8.5,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "0,6kg",
+   "ref": 22.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Slegge",
+   "qual": "2kg/110cm",
+   "ref": 22.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,4kg",
+   "ref": 25.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Liten ball",
+   "qual": "150g",
+   "ref": 48.0,
+   "kvot": 0.3,
+   "f1": 0.08,
+   "f2": 0.15,
+   "f3": 0.3
+  },
+  {
+   "event": "Slengball",
+   "qual": "1kg/Kort reim",
+   "ref": 24.0,
+   "kvot": 0.3,
+   "f1": 0.08,
+   "f2": 0.15,
+   "f3": 0.3
+  }
+ ],
+ "Jenter-10": [
+  {
+   "event": "40 m",
+   "qual": "",
+   "ref": 6.6,
+   "kvot": 3.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m",
+   "qual": "",
+   "ref": 9.25,
+   "kvot": 2.7,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "80 m",
+   "qual": "",
+   "ref": 12.2,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "600 m",
+   "qual": "",
+   "ref": 115.0,
+   "kvot": 2.4,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "60 m hekk",
+   "qual": "68,0cm/6,5m",
+   "ref": 11.6,
+   "kvot": 1.9,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde",
+   "qual": "",
+   "ref": 1.22,
+   "kvot": 7.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Høyde uten tilløp",
+   "qual": "",
+   "ref": 1.0,
+   "kvot": 9.5,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Stav",
+   "qual": "",
+   "ref": 1.8,
+   "kvot": 8.0,
+   "f1": 2.0,
+   "f2": 4.0,
+   "f3": 8.0
+  },
+  {
+   "event": "Lengde",
+   "qual": "",
+   "ref": 4.1,
+   "kvot": 2.1,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Lengde uten tilløp",
+   "qual": "",
+   "ref": 2.05,
+   "kvot": 6.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Tresteg",
+   "qual": "",
+   "ref": 8.0,
+   "kvot": 1.0,
+   "f1": null,
+   "f2": null,
+   "f3": null
+  },
+  {
+   "event": "Kule",
+   "qual": "2 kg",
+   "ref": 6.8,
+   "kvot": 1.2,
+   "f1": 0.3,
+   "f2": 0.6,
+   "f3": 1.2
+  },
+  {
+   "event": "Diskos",
+   "qual": "0,6 kg",
+   "ref": 18.0,
+   "kvot": 0.6,
+   "f1": 0.15,
+   "f2": 0.3,
+   "f3": 0.6
+  },
+  {
+   "event": "Slegge",
+   "qual": "2 kg/110cm",
+   "ref": 20.0,
+   "kvot": 0.5,
+   "f1": 0.12,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Spyd",
+   "qual": "0,4 kg",
+   "ref": 20.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  },
+  {
+   "event": "Liten ball",
+   "qual": "150g",
+   "ref": 38.0,
+   "kvot": 0.4,
+   "f1": 0.1,
+   "f2": 0.2,
+   "f3": 0.4
+  },
+  {
+   "event": "Slengball",
+   "qual": "1kg/Kort reim",
+   "ref": 20.0,
+   "kvot": 0.5,
+   "f1": 0.13,
+   "f2": 0.25,
+   "f3": 0.5
+  }
+ ]
+}
