@@ -1,4 +1,2100 @@
 {
   "source_note": "Built from saved minfriidrettsstatistikk.info profile pages. UM medals = whole-word 'UM' meets, places 1-3 (mangekamp: combined row only). Points = Tyrvingtabellen 2014 at the age of the result.",
-  "athletes": []
+  "athletes": [
+    {
+      "id": "36971",
+      "name": "Even Bogen Nørjordet",
+      "gender": "Gutter",
+      "born": 2008,
+      "birth_date": "2008-05-12",
+      "club": "IL Koll",
+      "region": null,
+      "um_medals": {
+        "gold": 3,
+        "silver": 10,
+        "bronze": 7,
+        "total": 20
+      },
+      "score": 1078,
+      "main_event": "300 meter hekk (84,0cm)",
+      "last_season": 2026,
+      "personal_bests": {
+        "outdoor": [
+          {
+            "event": "60 meter",
+            "result": "7,80(+1,3)",
+            "display": "7,80(+1,3)",
+            "value": 7.8,
+            "lower_is_better": true,
+            "points": 932,
+            "date": "25.09.23",
+            "age": 15
+          },
+          {
+            "event": "80 meter",
+            "result": "10,31(-1,0)",
+            "display": "10,31(-1,0)",
+            "value": 10.31,
+            "lower_is_better": true,
+            "points": 887,
+            "date": "01.07.23",
+            "age": 15
+          },
+          {
+            "event": "100 meter",
+            "result": "11,67(+0,7)",
+            "display": "11,67(+0,7)",
+            "value": 11.67,
+            "lower_is_better": true,
+            "points": 971,
+            "date": "14.06.25",
+            "age": 17
+          },
+          {
+            "event": "150 meter",
+            "result": "17,87(-0,6)",
+            "display": "17,87(-0,6)",
+            "value": 17.87,
+            "lower_is_better": true,
+            "points": null,
+            "date": "03.05.24",
+            "age": 16
+          },
+          {
+            "event": "200 meter",
+            "result": "23,71(+0,3)",
+            "display": "23,71(+0,3)",
+            "value": 23.71,
+            "lower_is_better": true,
+            "points": 939,
+            "date": "02.07.25",
+            "age": 17
+          },
+          {
+            "event": "300 meter",
+            "result": "39,49",
+            "display": "39,49",
+            "value": 39.49,
+            "lower_is_better": true,
+            "points": 946,
+            "date": "02.07.23",
+            "age": 15
+          },
+          {
+            "event": "400 meter",
+            "result": "52,81",
+            "display": "52,81",
+            "value": 52.81,
+            "lower_is_better": true,
+            "points": 947,
+            "date": "14.06.25",
+            "age": 17
+          },
+          {
+            "event": "600 meter",
+            "result": "1,31,24",
+            "display": "1:31,24",
+            "value": 91.24,
+            "lower_is_better": true,
+            "points": 864,
+            "date": "21.09.24",
+            "age": 16
+          },
+          {
+            "event": "800 meter",
+            "result": "2,12,95",
+            "display": "2:12,95",
+            "value": 132.95,
+            "lower_is_better": true,
+            "points": 767,
+            "date": "14.09.24",
+            "age": 16
+          },
+          {
+            "event": "1000 meter",
+            "result": "3,07,65",
+            "display": "3:07,65",
+            "value": 187.65,
+            "lower_is_better": true,
+            "points": 740,
+            "date": "21.05.23",
+            "age": 15
+          },
+          {
+            "event": "1500 meter",
+            "result": "5,16,59",
+            "display": "5:16,59",
+            "value": 316.59,
+            "lower_is_better": true,
+            "points": 506,
+            "date": "25.05.25",
+            "age": 17
+          },
+          {
+            "event": "60 meter hekk (68,0cm)",
+            "result": "12,35(-0,9)",
+            "display": "12,35(-0,9)",
+            "value": 12.35,
+            "lower_is_better": true,
+            "points": 630,
+            "date": "16.06.19",
+            "age": 11
+          },
+          {
+            "event": "60 meter hekk (76,2cm)",
+            "result": "10,49(-1,5)",
+            "display": "10,49(-1,5)",
+            "value": 10.49,
+            "lower_is_better": true,
+            "points": 862,
+            "date": "07.08.21",
+            "age": 13
+          },
+          {
+            "event": "80 meter hekk (84,0cm)",
+            "result": "12,16(+1,9)",
+            "display": "12,16(+1,9)",
+            "value": 12.16,
+            "lower_is_better": true,
+            "points": null,
+            "date": "02.07.23",
+            "age": 15
+          },
+          {
+            "event": "100 meter hekk (84,0cm)",
+            "result": "14,64(+0,6)",
+            "display": "14,64(+0,6)",
+            "value": 14.64,
+            "lower_is_better": true,
+            "points": 929,
+            "date": "09.09.23",
+            "age": 15
+          },
+          {
+            "event": "100 meter hekk (91,4cm)",
+            "result": "14,56(+0,2)",
+            "display": "14,56(+0,2)",
+            "value": 14.56,
+            "lower_is_better": true,
+            "points": 993,
+            "date": "26.05.24",
+            "age": 16,
+            "featured": true
+          },
+          {
+            "event": "110 meter hekk (91,4cm)",
+            "result": "15,71(+1,8)",
+            "display": "15,71(+1,8)",
+            "value": 15.71,
+            "lower_is_better": true,
+            "points": 959,
+            "date": "15.06.25",
+            "age": 17
+          },
+          {
+            "event": "200 meter hekk (68,0cm)",
+            "result": "37,35(+1,7)",
+            "display": "37,35(+1,7)",
+            "value": 37.35,
+            "lower_is_better": true,
+            "points": 727,
+            "date": "13.09.20",
+            "age": 12
+          },
+          {
+            "event": "200 meter hekk (76,2cm)",
+            "result": "27,15(+0,1)",
+            "display": "27,15(+0,1)",
+            "value": 27.15,
+            "lower_is_better": true,
+            "points": 1027,
+            "date": "22.09.24",
+            "age": 16,
+            "featured": true
+          },
+          {
+            "event": "300 meter hekk (76,2cm)",
+            "result": "41,72",
+            "display": "41,72",
+            "value": 41.72,
+            "lower_is_better": true,
+            "points": 1058,
+            "date": "08.09.23",
+            "age": 15,
+            "featured": true
+          },
+          {
+            "event": "300 meter hekk (84,0cm)",
+            "result": "39,30",
+            "display": "39,30",
+            "value": 39.3,
+            "lower_is_better": true,
+            "points": 1078,
+            "date": "06.09.25",
+            "age": 17,
+            "featured": true
+          },
+          {
+            "event": "400 meter hekk (84,0cm)",
+            "result": "1,00,39",
+            "display": "1:00,39",
+            "value": 60.39,
+            "lower_is_better": true,
+            "points": null,
+            "date": "05.07.24",
+            "age": 16
+          },
+          {
+            "event": "400 meter hekk (91,4cm)",
+            "result": "1,02,44",
+            "display": "1:02,44",
+            "value": 62.44,
+            "lower_is_better": true,
+            "points": null,
+            "date": "15.09.24",
+            "age": 16
+          },
+          {
+            "event": "Høyde",
+            "result": "1,74",
+            "display": "1,74",
+            "value": 1.74,
+            "lower_is_better": false,
+            "points": 867,
+            "date": "24.05.25",
+            "age": 17
+          },
+          {
+            "event": "Stav",
+            "result": "4,03",
+            "display": "4,03",
+            "value": 4.03,
+            "lower_is_better": false,
+            "points": 993,
+            "date": "15.06.25",
+            "age": 17,
+            "featured": true
+          },
+          {
+            "event": "Lengde",
+            "result": "6,17(+1,5)",
+            "display": "6,17(+1,5)",
+            "value": 6.17,
+            "lower_is_better": false,
+            "points": 914,
+            "date": "24.05.25",
+            "age": 17
+          },
+          {
+            "event": "Lengde (Sone 0,5m)",
+            "result": "4,51(+0,7)",
+            "display": "4,51(+0,7)",
+            "value": 4.51,
+            "lower_is_better": false,
+            "points": null,
+            "date": "07.08.21",
+            "age": 13
+          },
+          {
+            "event": "Tresteg",
+            "result": "13,10(+1,5)",
+            "display": "13,10(+1,5)",
+            "value": 13.1,
+            "lower_is_better": false,
+            "points": 940,
+            "date": "05.09.25",
+            "age": 17
+          },
+          {
+            "event": "Tresteg (Sone 0,5m)",
+            "result": "8,59(+0,5)",
+            "display": "8,59(+0,5)",
+            "value": 8.59,
+            "lower_is_better": false,
+            "points": null,
+            "date": "11.09.20",
+            "age": 12
+          },
+          {
+            "event": "Kule 2,0kg",
+            "result": "5,86",
+            "display": "5,86",
+            "value": 5.86,
+            "lower_is_better": false,
+            "points": 569,
+            "date": "06.09.19",
+            "age": 11
+          },
+          {
+            "event": "Kule 3,0kg",
+            "result": "6,19",
+            "display": "6,19",
+            "value": 6.19,
+            "lower_is_better": false,
+            "points": 284,
+            "date": "01.06.21",
+            "age": 13
+          },
+          {
+            "event": "Kule 4,0kg",
+            "result": "9,13",
+            "display": "9,13",
+            "value": 9.13,
+            "lower_is_better": false,
+            "points": 443,
+            "date": "14.05.23",
+            "age": 15
+          },
+          {
+            "event": "Kule 5,0kg",
+            "result": "10,46",
+            "display": "10,46",
+            "value": 10.46,
+            "lower_is_better": false,
+            "points": 548,
+            "date": "14.06.25",
+            "age": 17
+          },
+          {
+            "event": "Diskos 600gram",
+            "result": "11,48",
+            "display": "11,48",
+            "value": 11.48,
+            "lower_is_better": false,
+            "points": 314,
+            "date": "14.09.19",
+            "age": 11
+          },
+          {
+            "event": "Diskos 1,0kg",
+            "result": "24,72",
+            "display": "24,72",
+            "value": 24.72,
+            "lower_is_better": false,
+            "points": 0,
+            "date": "04.06.23",
+            "age": 15
+          },
+          {
+            "event": "Diskos 1,5kg",
+            "result": "31,01",
+            "display": "31,01",
+            "value": 31.01,
+            "lower_is_better": false,
+            "points": 390,
+            "date": "15.06.25",
+            "age": 17
+          },
+          {
+            "event": "Spyd 400gram",
+            "result": "10,52",
+            "display": "10,52",
+            "value": 10.52,
+            "lower_is_better": false,
+            "points": 268,
+            "date": "18.08.19",
+            "age": 11
+          },
+          {
+            "event": "Spyd 600gram",
+            "result": "24,57",
+            "display": "24,57",
+            "value": 24.57,
+            "lower_is_better": false,
+            "points": 110,
+            "date": "21.05.23",
+            "age": 15
+          },
+          {
+            "event": "Spyd 700gram",
+            "result": "40,75",
+            "display": "40,75",
+            "value": 40.75,
+            "lower_is_better": false,
+            "points": 470,
+            "date": "11.05.25",
+            "age": 17
+          },
+          {
+            "event": "4 Kamp (60m-Lengde-Kule-600m)",
+            "result": "2199",
+            "display": "2199 p",
+            "value": 2199.0,
+            "lower_is_better": false,
+            "points": null,
+            "date": "06.09.19",
+            "age": 11
+          },
+          {
+            "event": "6 Kamp (60m-Lengde-Kule-80mhekk-Høyde-600m)",
+            "result": "4521",
+            "display": "4521 p",
+            "value": 4521.0,
+            "lower_is_better": false,
+            "points": null,
+            "date": "21.05.22",
+            "age": 14
+          },
+          {
+            "event": "9 Kamp (100m-Lengde-Kule-Høyde-100m hekk-Diskos-Stav-Spyd-1000m)",
+            "result": "4121",
+            "display": "4121 p",
+            "value": 4121.0,
+            "lower_is_better": false,
+            "points": null,
+            "date": "20.05.23",
+            "age": 15
+          },
+          {
+            "event": "10 Kamp (100m-Lengde-Kule-Høyde-400m-110mhekk-Diskos-Stav-Spyd-1500m) Ung",
+            "result": "5840",
+            "display": "5840 p",
+            "value": 5840.0,
+            "lower_is_better": false,
+            "points": null,
+            "date": "15.06.25",
+            "age": 17
+          },
+          {
+            "event": "10 Kamp (100m-Lengde-Kule-Høyde-400m-100mhekk-Diskos-Stav-Spyd-1500m)",
+            "result": "5192",
+            "display": "5192 p",
+            "value": 5192.0,
+            "lower_is_better": false,
+            "points": null,
+            "date": "25.05.24",
+            "age": 16
+          }
+        ],
+        "indoor": [
+          {
+            "event": "60 meter",
+            "result": "7,36",
+            "display": "7,36",
+            "value": 7.36,
+            "lower_is_better": true,
+            "points": 970,
+            "date": "17.01.26",
+            "age": 18
+          },
+          {
+            "event": "100 meter",
+            "result": "12,50",
+            "display": "12,50",
+            "value": 12.5,
+            "lower_is_better": true,
+            "points": 906,
+            "date": "08.01.23",
+            "age": 15
+          },
+          {
+            "event": "200 meter",
+            "result": "23,69",
+            "display": "23,69",
+            "value": 23.69,
+            "lower_is_better": true,
+            "points": 983,
+            "date": "30.11.24",
+            "age": 16
+          },
+          {
+            "event": "400 meter",
+            "result": "52,42",
+            "display": "52,42",
+            "value": 52.42,
+            "lower_is_better": true,
+            "points": 943,
+            "date": "14.02.26",
+            "age": 18
+          },
+          {
+            "event": "600 meter",
+            "result": "1,33,44",
+            "display": "1:33,44",
+            "value": 93.44,
+            "lower_is_better": true,
+            "points": 872,
+            "date": "25.11.23",
+            "age": 15
+          },
+          {
+            "event": "800 meter",
+            "result": "2,11,09",
+            "display": "2:11,09",
+            "value": 131.09,
+            "lower_is_better": true,
+            "points": 721,
+            "date": "08.02.26",
+            "age": 18
+          },
+          {
+            "event": "1000 meter",
+            "result": "3,01,93",
+            "display": "3:01,93",
+            "value": 181.93,
+            "lower_is_better": true,
+            "points": 682,
+            "date": "17.01.26",
+            "age": 18
+          },
+          {
+            "event": "60 meter hekk (68,0cm)",
+            "result": "11,81",
+            "display": "11,81",
+            "value": 11.81,
+            "lower_is_better": true,
+            "points": 738,
+            "date": "07.12.19",
+            "age": 11
+          },
+          {
+            "event": "60 meter hekk (76,2cm)",
+            "result": "12,29",
+            "display": "12,29",
+            "value": 12.29,
+            "lower_is_better": true,
+            "points": 582,
+            "date": "18.01.20",
+            "age": 12
+          },
+          {
+            "event": "60 meter hekk (84,0cm)",
+            "result": "8,92",
+            "display": "8,92",
+            "value": 8.92,
+            "lower_is_better": true,
+            "points": null,
+            "date": "14.01.23",
+            "age": 15
+          },
+          {
+            "event": "60 meter hekk (91,4cm)",
+            "result": "8,75",
+            "display": "8,75",
+            "value": 8.75,
+            "lower_is_better": true,
+            "points": null,
+            "date": "08.03.24",
+            "age": 16
+          },
+          {
+            "event": "60 meter hekk (100cm)",
+            "result": "8,71",
+            "display": "8,71",
+            "value": 8.71,
+            "lower_is_better": true,
+            "points": null,
+            "date": "08.02.26",
+            "age": 18
+          },
+          {
+            "event": "Høyde",
+            "result": "1,67",
+            "display": "1,67",
+            "value": 1.67,
+            "lower_is_better": false,
+            "points": 853,
+            "date": "27.01.24",
+            "age": 16
+          },
+          {
+            "event": "Høyde uten tilløp",
+            "result": "1,22",
+            "display": "1,22",
+            "value": 1.22,
+            "lower_is_better": false,
+            "points": 872,
+            "date": "06.11.22",
+            "age": 14
+          },
+          {
+            "event": "Stav",
+            "result": "4,12",
+            "display": "4,12",
+            "value": 4.12,
+            "lower_is_better": false,
+            "points": 937,
+            "date": "07.02.26",
+            "age": 18
+          },
+          {
+            "event": "Lengde",
+            "result": "6,08",
+            "display": "6,08",
+            "value": 6.08,
+            "lower_is_better": false,
+            "points": 856,
+            "date": "17.01.26",
+            "age": 18
+          },
+          {
+            "event": "Lengde (Sone 0,5m)",
+            "result": "4,06",
+            "display": "4,06",
+            "value": 4.06,
+            "lower_is_better": false,
+            "points": null,
+            "date": "07.12.19",
+            "age": 11
+          },
+          {
+            "event": "Lengde uten tilløp",
+            "result": "2,60",
+            "display": "2,60",
+            "value": 2.6,
+            "lower_is_better": false,
+            "points": 810,
+            "date": "18.08.24",
+            "age": 16
+          },
+          {
+            "event": "Tresteg",
+            "result": "12,66",
+            "display": "12,66",
+            "value": 12.66,
+            "lower_is_better": false,
+            "points": 866,
+            "date": "06.03.26",
+            "age": 18
+          },
+          {
+            "event": "Tresteg uten tilløp",
+            "result": "7,45",
+            "display": "7,45",
+            "value": 7.45,
+            "lower_is_better": false,
+            "points": 545,
+            "date": "06.11.22",
+            "age": 14
+          },
+          {
+            "event": "Kule 2,0kg",
+            "result": "5,58",
+            "display": "5,58",
+            "value": 5.58,
+            "lower_is_better": false,
+            "points": 535,
+            "date": "24.03.19",
+            "age": 11
+          },
+          {
+            "event": "Kule 4,0kg",
+            "result": "9,05",
+            "display": "9,05",
+            "value": 9.05,
+            "lower_is_better": false,
+            "points": 433,
+            "date": "02.12.23",
+            "age": 15
+          },
+          {
+            "event": "Kule 5,0kg",
+            "result": "9,20",
+            "display": "9,20",
+            "value": 9.2,
+            "lower_is_better": false,
+            "points": 527,
+            "date": "30.11.24",
+            "age": 16
+          },
+          {
+            "event": "Kule 6,0kg",
+            "result": "9,11",
+            "display": "9,11",
+            "value": 9.11,
+            "lower_is_better": false,
+            "points": 516,
+            "date": "07.03.26",
+            "age": 18
+          },
+          {
+            "event": "7 Kamp (60m-Lengde-Kule-Høyde-60mhekk-Stav-1000m) Jr",
+            "result": "4244",
+            "display": "4244 p",
+            "value": 4244.0,
+            "lower_is_better": false,
+            "points": null,
+            "date": "17.01.26",
+            "age": 18
+          },
+          {
+            "event": "7 Kamp (60m-Lengde-Kule-Høyde-60mhekk-Stav-800m) Ungdom",
+            "result": "3965",
+            "display": "3965 p",
+            "value": 3965.0,
+            "lower_is_better": false,
+            "points": null,
+            "date": "28.01.24",
+            "age": 16
+          }
+        ]
+      }
+    },
+    {
+      "id": "46551",
+      "name": "Elise Sandvik Tornberg",
+      "gender": "Jenter",
+      "born": 2009,
+      "birth_date": "2009-11-04",
+      "club": "IL Tyrving",
+      "region": null,
+      "um_medals": {
+        "gold": 4,
+        "silver": 0,
+        "bronze": 2,
+        "total": 6
+      },
+      "score": 1081,
+      "main_event": "Lengde",
+      "last_season": 2026,
+      "personal_bests": {
+        "outdoor": [
+          {
+            "event": "60 meter",
+            "result": "8,23(+0,2)",
+            "display": "8,23(+0,2)",
+            "value": 8.23,
+            "lower_is_better": true,
+            "points": 978,
+            "date": "09.06.24",
+            "age": 15
+          },
+          {
+            "event": "80 meter",
+            "result": "10,49(+0,0)",
+            "display": "10,49(+0,0)",
+            "value": 10.49,
+            "lower_is_better": true,
+            "points": 1002,
+            "date": "06.07.24",
+            "age": 15
+          },
+          {
+            "event": "100 meter",
+            "result": "12,59(+0,3)",
+            "display": "12,59(+0,3)",
+            "value": 12.59,
+            "lower_is_better": true,
+            "points": 1025,
+            "date": "05.09.25",
+            "age": 16,
+            "featured": true
+          },
+          {
+            "event": "200 meter",
+            "result": "25,60(-1,7)",
+            "display": "25,60(-1,7)",
+            "value": 25.6,
+            "lower_is_better": true,
+            "points": 1042,
+            "date": "29.06.25",
+            "age": 16,
+            "featured": true
+          },
+          {
+            "event": "300 meter",
+            "result": "42,07",
+            "display": "42,07",
+            "value": 42.07,
+            "lower_is_better": true,
+            "points": 1021,
+            "date": "07.07.24",
+            "age": 15,
+            "featured": true
+          },
+          {
+            "event": "400 meter",
+            "result": "1,03,01",
+            "display": "1:03,01",
+            "value": 63.01,
+            "lower_is_better": true,
+            "points": 946,
+            "date": "19.08.23",
+            "age": 14
+          },
+          {
+            "event": "600 meter",
+            "result": "1,51,56",
+            "display": "1:51,56",
+            "value": 111.56,
+            "lower_is_better": true,
+            "points": 724,
+            "date": "14.05.23",
+            "age": 14
+          },
+          {
+            "event": "80 meter hekk (76,2cm)",
+            "result": "12,56(+1,5)",
+            "display": "12,56(+1,5)",
+            "value": 12.56,
+            "lower_is_better": true,
+            "points": 991,
+            "date": "05.07.24",
+            "age": 15
+          },
+          {
+            "event": "200 meter hekk (76,2cm)",
+            "result": "32,49(+0,8)",
+            "display": "32,49(+0,8)",
+            "value": 32.49,
+            "lower_is_better": true,
+            "points": 955,
+            "date": "16.09.23",
+            "age": 14
+          },
+          {
+            "event": "Lengde",
+            "result": "5,86(+1,5)",
+            "display": "5,86(+1,5)",
+            "value": 5.86,
+            "lower_is_better": false,
+            "points": 1081,
+            "date": "13.06.25",
+            "age": 16,
+            "featured": true
+          },
+          {
+            "event": "Lengde (Sone 0,5m)",
+            "result": "4,83(+1,6)",
+            "display": "4,83(+1,6)",
+            "value": 4.83,
+            "lower_is_better": false,
+            "points": null,
+            "date": "20.08.22",
+            "age": 13
+          },
+          {
+            "event": "Tresteg",
+            "result": "9,91(-1,1)",
+            "display": "9,91(-1,1)",
+            "value": 9.91,
+            "lower_is_better": false,
+            "points": 911,
+            "date": "18.06.23",
+            "age": 14
+          },
+          {
+            "event": "Spyd 400gram",
+            "result": "19,53",
+            "display": "19,53",
+            "value": 19.53,
+            "lower_is_better": false,
+            "points": 221,
+            "date": "19.09.23",
+            "age": 14
+          },
+          {
+            "event": "Spyd 500gram",
+            "result": "19,10",
+            "display": "19,10",
+            "value": 19.1,
+            "lower_is_better": false,
+            "points": 245,
+            "date": "14.09.24",
+            "age": 15
+          }
+        ],
+        "indoor": [
+          {
+            "event": "60 meter",
+            "result": "8,02",
+            "display": "8,02",
+            "value": 8.02,
+            "lower_is_better": true,
+            "points": 994,
+            "date": "17.01.26",
+            "age": 17
+          },
+          {
+            "event": "100 meter",
+            "result": "13,00",
+            "display": "13,00",
+            "value": 13.0,
+            "lower_is_better": true,
+            "points": 960,
+            "date": "27.02.25",
+            "age": 16
+          },
+          {
+            "event": "200 meter",
+            "result": "25,49",
+            "display": "25,49",
+            "value": 25.49,
+            "lower_is_better": true,
+            "points": 1031,
+            "date": "14.02.26",
+            "age": 17,
+            "featured": true
+          },
+          {
+            "event": "400 meter",
+            "result": "1,03,29",
+            "display": "1:03,29",
+            "value": 63.29,
+            "lower_is_better": true,
+            "points": 874,
+            "date": "03.02.24",
+            "age": 15
+          },
+          {
+            "event": "Høyde uten tilløp",
+            "result": "1,21",
+            "display": "1,21",
+            "value": 1.21,
+            "lower_is_better": false,
+            "points": 914,
+            "date": "11.10.23",
+            "age": 14
+          },
+          {
+            "event": "Lengde",
+            "result": "5,52",
+            "display": "5,52",
+            "value": 5.52,
+            "lower_is_better": false,
+            "points": 1010,
+            "date": "29.11.25",
+            "age": 16
+          },
+          {
+            "event": "Lengde (Sone 0,5m)",
+            "result": "4,79",
+            "display": "4,79",
+            "value": 4.79,
+            "lower_is_better": false,
+            "points": null,
+            "date": "03.12.22",
+            "age": 13
+          },
+          {
+            "event": "Lengde uten tilløp",
+            "result": "2,65",
+            "display": "2,65",
+            "value": 2.65,
+            "lower_is_better": false,
+            "points": 1018,
+            "date": "27.02.26",
+            "age": 17
+          },
+          {
+            "event": "Tresteg",
+            "result": "9,84",
+            "display": "9,84",
+            "value": 9.84,
+            "lower_is_better": false,
+            "points": 904,
+            "date": "09.03.23",
+            "age": 14
+          },
+          {
+            "event": "Tresteg uten tilløp",
+            "result": "6,35",
+            "display": "6,35",
+            "value": 6.35,
+            "lower_is_better": false,
+            "points": 555,
+            "date": "11.10.23",
+            "age": 14
+          },
+          {
+            "event": "Kule 3,0kg",
+            "result": "7,99",
+            "display": "7,99",
+            "value": 7.99,
+            "lower_is_better": false,
+            "points": 662,
+            "date": "09.02.25",
+            "age": 16
+          }
+        ]
+      }
+    },
+    {
+      "id": "50571",
+      "name": "Mats Klungland",
+      "gender": "Gutter",
+      "born": 2008,
+      "birth_date": "2008-06-05",
+      "club": "IL Koll",
+      "region": null,
+      "um_medals": {
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0,
+        "total": 2
+      },
+      "score": 884,
+      "main_event": "Stav",
+      "last_season": 2025,
+      "personal_bests": {
+        "outdoor": [
+          {
+            "event": "60 meter",
+            "result": "9,63(+0,6)",
+            "display": "9,63(+0,6)",
+            "value": 9.63,
+            "lower_is_better": true,
+            "points": 667,
+            "date": "20.09.20",
+            "age": 12
+          },
+          {
+            "event": "150 meter",
+            "result": "25,55(-0,1)",
+            "display": "25,55(-0,1)",
+            "value": 25.55,
+            "lower_is_better": true,
+            "points": null,
+            "date": "10.05.19",
+            "age": 11
+          },
+          {
+            "event": "200 meter",
+            "result": "31,27(+0,1)",
+            "display": "31,27(+0,1)",
+            "value": 31.27,
+            "lower_is_better": true,
+            "points": 552,
+            "date": "25.09.21",
+            "age": 13
+          },
+          {
+            "event": "300 meter",
+            "result": "56,77",
+            "display": "56,77",
+            "value": 56.77,
+            "lower_is_better": true,
+            "points": null,
+            "date": "10.05.19",
+            "age": 11
+          },
+          {
+            "event": "600 meter",
+            "result": "1,56,20",
+            "display": "1:56,20",
+            "value": 116.2,
+            "lower_is_better": true,
+            "points": 435,
+            "date": "07.08.21",
+            "age": 13
+          },
+          {
+            "event": "60 meter hekk (68,0cm)",
+            "result": "13,03(-0,9)",
+            "display": "13,03(-0,9)",
+            "value": 13.03,
+            "lower_is_better": true,
+            "points": 494,
+            "date": "16.06.19",
+            "age": 11
+          },
+          {
+            "event": "60 meter hekk (76,2cm)",
+            "result": "12,75(+0,0)",
+            "display": "12,75(+0,0)",
+            "value": 12.75,
+            "lower_is_better": true,
+            "points": 410,
+            "date": "11.09.21",
+            "age": 13
+          },
+          {
+            "event": "200 meter hekk (68,0cm)",
+            "result": "41,14(-0,3)",
+            "display": "41,14(-0,3)",
+            "value": 41.14,
+            "lower_is_better": true,
+            "points": 619,
+            "date": "14.09.19",
+            "age": 11
+          },
+          {
+            "event": "Høyde",
+            "result": "1,10",
+            "display": "1,10",
+            "value": 1.1,
+            "lower_is_better": false,
+            "points": 804,
+            "date": "18.08.19",
+            "age": 11,
+            "featured": true
+          },
+          {
+            "event": "Stav",
+            "result": "3,17",
+            "display": "3,17",
+            "value": 3.17,
+            "lower_is_better": false,
+            "points": 884,
+            "date": "15.09.23",
+            "age": 15,
+            "featured": true
+          },
+          {
+            "event": "Lengde (Sone 0,5m)",
+            "result": "3,67(+0,2)",
+            "display": "3,67(+0,2)",
+            "value": 3.67,
+            "lower_is_better": false,
+            "points": null,
+            "date": "18.08.19",
+            "age": 11
+          },
+          {
+            "event": "Kule 2,0kg",
+            "result": "7,06",
+            "display": "7,06",
+            "value": 7.06,
+            "lower_is_better": false,
+            "points": 713,
+            "date": "14.09.19",
+            "age": 11
+          },
+          {
+            "event": "Kule 3,0kg",
+            "result": "6,67",
+            "display": "6,67",
+            "value": 6.67,
+            "lower_is_better": false,
+            "points": 342,
+            "date": "09.07.21",
+            "age": 13
+          },
+          {
+            "event": "Diskos 750gram",
+            "result": "19,25",
+            "display": "19,25",
+            "value": 19.25,
+            "lower_is_better": false,
+            "points": 162,
+            "date": "19.09.21",
+            "age": 13
+          },
+          {
+            "event": "Diskos 1,0kg",
+            "result": "26,57",
+            "display": "26,57",
+            "value": 26.57,
+            "lower_is_better": false,
+            "points": 33,
+            "date": "08.09.23",
+            "age": 15
+          },
+          {
+            "event": "Slegge 3,0Kg (119,5cm)",
+            "result": "15,99",
+            "display": "15,99",
+            "value": 15.99,
+            "lower_is_better": false,
+            "points": 307,
+            "date": "12.09.21",
+            "age": 13
+          },
+          {
+            "event": "Slegge 4,0kg/119,5cm",
+            "result": "13,95",
+            "display": "13,95",
+            "value": 13.95,
+            "lower_is_better": false,
+            "points": 82,
+            "date": "04.09.22",
+            "age": 14
+          },
+          {
+            "event": "Spyd 400gram",
+            "result": "31,14",
+            "display": "31,14",
+            "value": 31.14,
+            "lower_is_better": false,
+            "points": 625,
+            "date": "15.08.21",
+            "age": 13
+          },
+          {
+            "event": "Spyd 600gram",
+            "result": "35,59",
+            "display": "35,59",
+            "value": 35.59,
+            "lower_is_better": false,
+            "points": 767,
+            "date": "25.09.22",
+            "age": 14,
+            "featured": true
+          },
+          {
+            "event": "Spyd 700gram",
+            "result": "45,60",
+            "display": "45,60",
+            "value": 45.6,
+            "lower_is_better": false,
+            "points": 812,
+            "date": "03.06.24",
+            "age": 16,
+            "featured": true
+          },
+          {
+            "event": "Liten Ball 150gram",
+            "result": "32,38",
+            "display": "32,38",
+            "value": 32.38,
+            "lower_is_better": true,
+            "points": null,
+            "date": "16.06.19",
+            "age": 11
+          },
+          {
+            "event": "4 Kamp (60m-Lengde-Kule-600m)",
+            "result": "2520",
+            "display": "2520 p",
+            "value": 2520.0,
+            "lower_is_better": false,
+            "points": null,
+            "date": "06.09.19",
+            "age": 11
+          }
+        ],
+        "indoor": [
+          {
+            "event": "60 meter",
+            "result": "8,77",
+            "display": "8,77",
+            "value": 8.77,
+            "lower_is_better": true,
+            "points": 670,
+            "date": "21.01.23",
+            "age": 15
+          },
+          {
+            "event": "200 meter",
+            "result": "30,79",
+            "display": "30,79",
+            "value": 30.79,
+            "lower_is_better": true,
+            "points": 592,
+            "date": "27.11.21",
+            "age": 13
+          },
+          {
+            "event": "600 meter",
+            "result": "2,01,43",
+            "display": "2:01,43",
+            "value": 121.43,
+            "lower_is_better": true,
+            "points": 417,
+            "date": "25.01.20",
+            "age": 12
+          },
+          {
+            "event": "60 meter hekk (68,0cm)",
+            "result": "12,66",
+            "display": "12,66",
+            "value": 12.66,
+            "lower_is_better": true,
+            "points": 568,
+            "date": "07.12.19",
+            "age": 11
+          },
+          {
+            "event": "Høyde",
+            "result": "1,30",
+            "display": "1,30",
+            "value": 1.3,
+            "lower_is_better": false,
+            "points": 706,
+            "date": "13.03.22",
+            "age": 14
+          },
+          {
+            "event": "Stav",
+            "result": "3,32",
+            "display": "3,32",
+            "value": 3.32,
+            "lower_is_better": false,
+            "points": 832,
+            "date": "10.02.24",
+            "age": 16,
+            "featured": true
+          },
+          {
+            "event": "Lengde",
+            "result": "4,00",
+            "display": "4,00",
+            "value": 4.0,
+            "lower_is_better": false,
+            "points": 650,
+            "date": "12.03.22",
+            "age": 14
+          },
+          {
+            "event": "Lengde (Sone 0,5m)",
+            "result": "3,58",
+            "display": "3,58",
+            "value": 3.58,
+            "lower_is_better": false,
+            "points": null,
+            "date": "07.12.19",
+            "age": 11
+          },
+          {
+            "event": "Kule 2,0kg",
+            "result": "6,79",
+            "display": "6,79",
+            "value": 6.79,
+            "lower_is_better": false,
+            "points": 680,
+            "date": "07.12.19",
+            "age": 11
+          },
+          {
+            "event": "Kule 3,0kg",
+            "result": "7,03",
+            "display": "7,03",
+            "value": 7.03,
+            "lower_is_better": false,
+            "points": 385,
+            "date": "27.11.21",
+            "age": 13
+          },
+          {
+            "event": "Kule 4,0kg",
+            "result": "6,21",
+            "display": "6,21",
+            "value": 6.21,
+            "lower_is_better": false,
+            "points": 308,
+            "date": "13.03.22",
+            "age": 14
+          },
+          {
+            "event": "Kule 5,0kg",
+            "result": "8,98",
+            "display": "8,98",
+            "value": 8.98,
+            "lower_is_better": false,
+            "points": 500,
+            "date": "10.03.24",
+            "age": 16
+          }
+        ]
+      }
+    },
+    {
+      "id": "52238",
+      "name": "Oda Lier",
+      "gender": "Jenter",
+      "born": 2008,
+      "birth_date": "2008-01-14",
+      "club": "Sportsklubben Vidar",
+      "region": null,
+      "um_medals": {
+        "gold": 9,
+        "silver": 10,
+        "bronze": 3,
+        "total": 22
+      },
+      "score": 1119,
+      "main_event": "200 meter hekk (68,0cm)",
+      "last_season": 2026,
+      "personal_bests": {
+        "outdoor": [
+          {
+            "event": "60 meter",
+            "result": "8,18(+0,6)",
+            "display": "8,18(+0,6)",
+            "value": 8.18,
+            "lower_is_better": true,
+            "points": 1018,
+            "date": "09.07.22",
+            "age": 14
+          },
+          {
+            "event": "80 meter",
+            "result": "10,56(+1,0)",
+            "display": "10,56(+1,0)",
+            "value": 10.56,
+            "lower_is_better": true,
+            "points": 987,
+            "date": "01.07.23",
+            "age": 15
+          },
+          {
+            "event": "100 meter",
+            "result": "12,52(+0,3)",
+            "display": "12,52(+0,3)",
+            "value": 12.52,
+            "lower_is_better": true,
+            "points": 1012,
+            "date": "05.09.25",
+            "age": 17
+          },
+          {
+            "event": "150 meter",
+            "result": "18,96(+1,7)",
+            "display": "18,96(+1,7)",
+            "value": 18.96,
+            "lower_is_better": true,
+            "points": null,
+            "date": "08.05.26",
+            "age": 18
+          },
+          {
+            "event": "200 meter",
+            "result": "26,16(-0,2)",
+            "display": "26,16(-0,2)",
+            "value": 26.16,
+            "lower_is_better": true,
+            "points": 964,
+            "date": "13.09.26",
+            "age": 18
+          },
+          {
+            "event": "300 meter",
+            "result": "42,85",
+            "display": "42,85",
+            "value": 42.85,
+            "lower_is_better": true,
+            "points": 917,
+            "date": "09.05.25",
+            "age": 17
+          },
+          {
+            "event": "600 meter",
+            "result": "2,00,91",
+            "display": "2:00,91",
+            "value": 120.91,
+            "lower_is_better": true,
+            "points": 618,
+            "date": "17.06.20",
+            "age": 12
+          },
+          {
+            "event": "800 meter",
+            "result": "2,57,90",
+            "display": "2:57,90",
+            "value": 177.9,
+            "lower_is_better": true,
+            "points": 371,
+            "date": "26.05.24",
+            "age": 16
+          },
+          {
+            "event": "60 meter hekk (68,0cm)",
+            "result": "11,14(+1,7)",
+            "display": "11,14(+1,7)",
+            "value": 11.14,
+            "lower_is_better": true,
+            "points": 954,
+            "date": "10.08.19",
+            "age": 11
+          },
+          {
+            "event": "60 meter hekk (76,2cm)",
+            "result": "9,63(+0,8)",
+            "display": "9,63(+0,8)",
+            "value": 9.63,
+            "lower_is_better": true,
+            "points": 1013,
+            "date": "29.05.22",
+            "age": 14
+          },
+          {
+            "event": "80 meter hekk (76,2cm)",
+            "result": "11,56(+0,0)",
+            "display": "11,56(+0,0)",
+            "value": 11.56,
+            "lower_is_better": true,
+            "points": 1089,
+            "date": "31.08.24",
+            "age": 16,
+            "featured": true
+          },
+          {
+            "event": "100 meter hekk (76,2cm)",
+            "result": "13,95(-0,3)",
+            "display": "13,95(-0,3)",
+            "value": 13.95,
+            "lower_is_better": true,
+            "points": 1105,
+            "date": "24.07.25",
+            "age": 17,
+            "featured": true
+          },
+          {
+            "event": "100 meter hekk (84,0cm)",
+            "result": "13,80(+0,3)",
+            "display": "13,80(+0,3)",
+            "value": 13.8,
+            "lower_is_better": true,
+            "points": 1110,
+            "date": "06.06.26",
+            "age": 18,
+            "featured": true
+          },
+          {
+            "event": "200 meter hekk (68,0cm)",
+            "result": "31,61(+0,3)",
+            "display": "31,61(+0,3)",
+            "value": 31.61,
+            "lower_is_better": true,
+            "points": 1119,
+            "date": "12.09.20",
+            "age": 12,
+            "featured": true
+          },
+          {
+            "event": "200 meter hekk (76,2cm)",
+            "result": "30,28(+0,5)",
+            "display": "30,28(+0,5)",
+            "value": 30.28,
+            "lower_is_better": true,
+            "points": 1006,
+            "date": "03.05.24",
+            "age": 16
+          },
+          {
+            "event": "300 meter hekk (76,2cm)",
+            "result": "45,27",
+            "display": "45,27",
+            "value": 45.27,
+            "lower_is_better": true,
+            "points": 1025,
+            "date": "06.09.25",
+            "age": 17
+          },
+          {
+            "event": "Høyde",
+            "result": "1,53",
+            "display": "1,53",
+            "value": 1.53,
+            "lower_is_better": false,
+            "points": 917,
+            "date": "25.05.24",
+            "age": 16
+          },
+          {
+            "event": "Lengde",
+            "result": "5,47(+0,1)",
+            "display": "5,47(+0,1)",
+            "value": 5.47,
+            "lower_is_better": false,
+            "points": 1000,
+            "date": "21.05.24",
+            "age": 16
+          },
+          {
+            "event": "Lengde (Sone 0,5m)",
+            "result": "5,25(+0,0)",
+            "display": "5,25(+0,0)",
+            "value": 5.25,
+            "lower_is_better": false,
+            "points": null,
+            "date": "15.08.21",
+            "age": 13
+          },
+          {
+            "event": "Tresteg",
+            "result": "10,65(+1,6)",
+            "display": "10,65(+1,6)",
+            "value": 10.65,
+            "lower_is_better": false,
+            "points": 925,
+            "date": "03.06.23",
+            "age": 15
+          },
+          {
+            "event": "Tresteg (Sone 0,5m)",
+            "result": "10,61(+0,0)",
+            "display": "10,61(+0,0)",
+            "value": 10.61,
+            "lower_is_better": false,
+            "points": null,
+            "date": "24.09.21",
+            "age": 13
+          },
+          {
+            "event": "Kule 2,0kg",
+            "result": "8,71",
+            "display": "8,71",
+            "value": 8.71,
+            "lower_is_better": false,
+            "points": 835,
+            "date": "25.09.21",
+            "age": 13
+          },
+          {
+            "event": "Kule 3,0kg",
+            "result": "9,20",
+            "display": "9,20",
+            "value": 9.2,
+            "lower_is_better": false,
+            "points": 808,
+            "date": "25.05.24",
+            "age": 16
+          },
+          {
+            "event": "Diskos 600gram",
+            "result": "22,86",
+            "display": "22,86",
+            "value": 22.86,
+            "lower_is_better": false,
+            "points": 319,
+            "date": "26.09.21",
+            "age": 13
+          },
+          {
+            "event": "Diskos 750gram",
+            "result": "17,90",
+            "display": "17,90",
+            "value": 17.9,
+            "lower_is_better": false,
+            "points": 22,
+            "date": "28.05.22",
+            "age": 14
+          },
+          {
+            "event": "Slegge 2,0kg/110cm",
+            "result": "27,67",
+            "display": "27,67",
+            "value": 27.67,
+            "lower_is_better": false,
+            "points": 673,
+            "date": "24.09.21",
+            "age": 13
+          },
+          {
+            "event": "Slegge 3,0Kg (119,5cm)",
+            "result": "33,05",
+            "display": "33,05",
+            "value": 33.05,
+            "lower_is_better": false,
+            "points": 876,
+            "date": "22.04.23",
+            "age": 15
+          },
+          {
+            "event": "Spyd 400gram",
+            "result": "19,94",
+            "display": "19,94",
+            "value": 19.94,
+            "lower_is_better": false,
+            "points": 377,
+            "date": "14.08.21",
+            "age": 13
+          },
+          {
+            "event": "Spyd 500gram",
+            "result": "23,04",
+            "display": "23,04",
+            "value": 23.04,
+            "lower_is_better": false,
+            "points": 352,
+            "date": "26.05.24",
+            "age": 16
+          },
+          {
+            "event": "Liten Ball 150gram",
+            "result": "18,77",
+            "display": "18,77",
+            "value": 18.77,
+            "lower_is_better": true,
+            "points": null,
+            "date": "16.06.19",
+            "age": 11
+          },
+          {
+            "event": "7 Kamp (80mhekk-Høyde-Kule-200m-Lengde-Spyd-800m) Ungdom",
+            "result": "4089",
+            "display": "4089 p",
+            "value": 4089.0,
+            "lower_is_better": false,
+            "points": null,
+            "date": "25.05.24",
+            "age": 16
+          }
+        ],
+        "indoor": [
+          {
+            "event": "30 meter",
+            "result": "4,57",
+            "display": "4,57",
+            "value": 4.57,
+            "lower_is_better": true,
+            "points": null,
+            "date": "14.02.26",
+            "age": 18
+          },
+          {
+            "event": "60 meter",
+            "result": "7,87",
+            "display": "7,87",
+            "value": 7.87,
+            "lower_is_better": true,
+            "points": 1021,
+            "date": "07.03.26",
+            "age": 18
+          },
+          {
+            "event": "200 meter",
+            "result": "25,77",
+            "display": "25,77",
+            "value": 25.77,
+            "lower_is_better": true,
+            "points": 994,
+            "date": "08.02.26",
+            "age": 18
+          },
+          {
+            "event": "600 meter",
+            "result": "1,50,69",
+            "display": "1:50,69",
+            "value": 110.69,
+            "lower_is_better": true,
+            "points": 709,
+            "date": "29.01.23",
+            "age": 15
+          },
+          {
+            "event": "30 meter hekk 84,0cm",
+            "result": "4,79",
+            "display": "4,79",
+            "value": 4.79,
+            "lower_is_better": true,
+            "points": null,
+            "date": "14.02.26",
+            "age": 18
+          },
+          {
+            "event": "60 meter hekk (68,0cm)",
+            "result": "12,00",
+            "display": "12,00",
+            "value": 12.0,
+            "lower_is_better": true,
+            "points": 791,
+            "date": "26.01.19",
+            "age": 11
+          },
+          {
+            "event": "60 meter hekk (76,2cm)",
+            "result": "8,87",
+            "display": "8,87",
+            "value": 8.87,
+            "lower_is_better": true,
+            "points": null,
+            "date": "28.01.24",
+            "age": 16
+          },
+          {
+            "event": "60 meter hekk (84,0cm)",
+            "result": "8,54",
+            "display": "8,54",
+            "value": 8.54,
+            "lower_is_better": true,
+            "points": null,
+            "date": "08.02.26",
+            "age": 18
+          },
+          {
+            "event": "Høyde",
+            "result": "1,51",
+            "display": "1,51",
+            "value": 1.51,
+            "lower_is_better": false,
+            "points": 947,
+            "date": "03.12.22",
+            "age": 14
+          },
+          {
+            "event": "Lengde",
+            "result": "5,68",
+            "display": "5,68",
+            "value": 5.68,
+            "lower_is_better": false,
+            "points": 1044,
+            "date": "06.01.24",
+            "age": 16,
+            "featured": true
+          },
+          {
+            "event": "Lengde (Sone 0,5m)",
+            "result": "4,87",
+            "display": "4,87",
+            "value": 4.87,
+            "lower_is_better": false,
+            "points": null,
+            "date": "11.01.20",
+            "age": 12
+          },
+          {
+            "event": "Lengde uten tilløp",
+            "result": "2,45",
+            "display": "2,45",
+            "value": 2.45,
+            "lower_is_better": false,
+            "points": 916,
+            "date": "17.08.24",
+            "age": 16
+          },
+          {
+            "event": "Tresteg",
+            "result": "10,86",
+            "display": "10,86",
+            "value": 10.86,
+            "lower_is_better": false,
+            "points": 1006,
+            "date": "03.12.22",
+            "age": 14
+          },
+          {
+            "event": "Tresteg (Sone 0,5m)",
+            "result": "9,50",
+            "display": "9,50",
+            "value": 9.5,
+            "lower_is_better": false,
+            "points": null,
+            "date": "30.11.19",
+            "age": 11
+          },
+          {
+            "event": "Kule 2,0kg",
+            "result": "7,51",
+            "display": "7,51",
+            "value": 7.51,
+            "lower_is_better": false,
+            "points": 799,
+            "date": "25.01.20",
+            "age": 12
+          },
+          {
+            "event": "Kule 3,0kg",
+            "result": "7,69",
+            "display": "7,69",
+            "value": 7.69,
+            "lower_is_better": false,
+            "points": 626,
+            "date": "28.01.24",
+            "age": 16
+          },
+          {
+            "event": "5 Kamp (60mhekk-Høyde-Kule-Lengde-600m)",
+            "result": "3008",
+            "display": "3008 p",
+            "value": 3008.0,
+            "lower_is_better": false,
+            "points": null,
+            "date": "28.01.24",
+            "age": 16
+          }
+        ]
+      }
+    },
+    {
+      "id": "60104",
+      "name": "Benjamin Altmann Opuama",
+      "gender": "Gutter",
+      "born": 2008,
+      "birth_date": "2008-08-27",
+      "club": "Ski IL Friidrett",
+      "region": null,
+      "um_medals": {
+        "gold": 12,
+        "silver": 0,
+        "bronze": 0,
+        "total": 12
+      },
+      "score": 1205,
+      "main_event": "300 meter",
+      "last_season": 2026,
+      "personal_bests": {
+        "outdoor": [
+          {
+            "event": "60 meter",
+            "result": "6,92(+1,3)",
+            "display": "6,92(+1,3)",
+            "value": 6.92,
+            "lower_is_better": true,
+            "points": 1102,
+            "date": "23.08.25",
+            "age": 17
+          },
+          {
+            "event": "80 meter",
+            "result": "9,10(+0,5)",
+            "display": "9,10(+0,5)",
+            "value": 9.1,
+            "lower_is_better": true,
+            "points": 1154,
+            "date": "01.07.23",
+            "age": 15,
+            "featured": true
+          },
+          {
+            "event": "100 meter",
+            "result": "10,42(+1,9)",
+            "display": "10,42(+1,9)",
+            "value": 10.42,
+            "lower_is_better": true,
+            "points": 1183,
+            "date": "22.06.25",
+            "age": 17,
+            "featured": true
+          },
+          {
+            "event": "150 meter",
+            "result": "15,88(+0,1)",
+            "display": "15,88(+0,1)",
+            "value": 15.88,
+            "lower_is_better": true,
+            "points": null,
+            "date": "23.08.25",
+            "age": 17
+          },
+          {
+            "event": "200 meter",
+            "result": "20,94(+1,6)",
+            "display": "20,94(+1,6)",
+            "value": 20.94,
+            "lower_is_better": true,
+            "points": 1175,
+            "date": "17.08.25",
+            "age": 17,
+            "featured": true
+          },
+          {
+            "event": "300 meter",
+            "result": "33,42",
+            "display": "33,42",
+            "value": 33.42,
+            "lower_is_better": true,
+            "points": 1205,
+            "date": "23.08.25",
+            "age": 17,
+            "featured": true
+          },
+          {
+            "event": "400 meter",
+            "result": "48,10",
+            "display": "48,10",
+            "value": 48.1,
+            "lower_is_better": true,
+            "points": 1136,
+            "date": "05.09.25",
+            "age": 17,
+            "featured": true
+          },
+          {
+            "event": "600 meter",
+            "result": "1,56,0",
+            "display": "1:56,0",
+            "value": 116.0,
+            "lower_is_better": true,
+            "points": 441,
+            "date": "24.08.21",
+            "age": 13
+          },
+          {
+            "event": "800 meter",
+            "result": "2,21,8",
+            "display": "2:21,8",
+            "value": 141.08,
+            "lower_is_better": true,
+            "points": 784,
+            "date": "20.09.22",
+            "age": 14
+          },
+          {
+            "event": "Høyde",
+            "result": "1,35",
+            "display": "1,35",
+            "value": 1.35,
+            "lower_is_better": false,
+            "points": 818,
+            "date": "04.07.21",
+            "age": 13
+          },
+          {
+            "event": "Lengde",
+            "result": "4,44(+0,0)",
+            "display": "4,44(+0,0)",
+            "value": 4.44,
+            "lower_is_better": false,
+            "points": 738,
+            "date": "20.09.22",
+            "age": 14
+          },
+          {
+            "event": "Lengde (Sone 0,5m)",
+            "result": "4,78(+1,4)",
+            "display": "4,78(+1,4)",
+            "value": 4.78,
+            "lower_is_better": false,
+            "points": null,
+            "date": "14.08.21",
+            "age": 13
+          }
+        ],
+        "indoor": [
+          {
+            "event": "60 meter",
+            "result": "6,90",
+            "display": "6,90",
+            "value": 6.9,
+            "lower_is_better": true,
+            "points": 1108,
+            "date": "01.02.25",
+            "age": 17
+          },
+          {
+            "event": "100 meter",
+            "result": "10,73",
+            "display": "10,73",
+            "value": 10.73,
+            "lower_is_better": true,
+            "points": 1130,
+            "date": "27.02.25",
+            "age": 17
+          },
+          {
+            "event": "200 meter",
+            "result": "21,49",
+            "display": "21,49",
+            "value": 21.49,
+            "lower_is_better": true,
+            "points": 1128,
+            "date": "02.02.25",
+            "age": 17
+          },
+          {
+            "event": "400 meter",
+            "result": "49,61",
+            "display": "49,61",
+            "value": 49.61,
+            "lower_is_better": true,
+            "points": 1075,
+            "date": "31.01.25",
+            "age": 17
+          },
+          {
+            "event": "Høyde uten tilløp",
+            "result": "1,31",
+            "display": "1,31",
+            "value": 1.31,
+            "lower_is_better": false,
+            "points": 889,
+            "date": "14.03.23",
+            "age": 15
+          },
+          {
+            "event": "Lengde",
+            "result": "5,57",
+            "display": "5,57",
+            "value": 5.57,
+            "lower_is_better": false,
+            "points": 834,
+            "date": "06.01.24",
+            "age": 16
+          }
+        ]
+      }
+    }
+  ]
 }
