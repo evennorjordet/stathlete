@@ -120,7 +120,7 @@ function renderGuessCard(g) {
   const chips = document.createElement("div");
   chips.className = "gc-chips";
   chips.appendChild(chip("Klubb", g.club, g.club === target.club ? "match" : null));
-  if (g.region) chips.appendChild(chip("Krets", g.region, g.region === target.region ? "partial" : null));
+  if (g.region) chips.appendChild(chip("Krets", g.region, g.region === target.region ? "match" : null));
   chips.appendChild(numChip("Født", g.born, target.born));
   chips.appendChild(numChip("UM-medaljer", g.medals, target.medals));
   chips.appendChild(numChip("Poeng", g.score, target.score));
