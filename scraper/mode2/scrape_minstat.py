@@ -90,7 +90,7 @@ def build(athlete_id, html, gender, table):
                 club=club, region=regions.resolve(club, table),
                 um_medals=dict(medals, total=sum(medals.values())),
                 score=top_score[0] or None, main_event=top_score[1],
-                last_season=latest, personal_bests=pbs)
+                last_season=latest, result_count=len(rows), personal_bests=pbs)
 
 
 def main():

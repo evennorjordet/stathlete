@@ -1,4 +1,4 @@
-// Statlete — guess the mystery track and field athlete.
+// Stathlete — guess the mystery track and field athlete.
 // Loads data/athletes.json, derives a few fields client-side (continent,
 // event group, display units), and runs a small guessing game where each
 // guess renders as its own card (Spotle-style) rather than one shared table.
@@ -78,7 +78,7 @@ const els = {
   guesses: document.getElementById("guesses"),
   form: document.getElementById("guess-form"),
   input: document.getElementById("guess-input"),
-  list: document.getElementById("athlete-list"),
+  submit: document.getElementById("guess-submit"),
   error: document.getElementById("error"),
   status: document.getElementById("status"),
   reset: document.getElementById("reset"),
@@ -199,7 +199,7 @@ function endGame(won) {
     ? `Correct — it was ${target.name}.`
     : `Out of athletes — it was ${target.name}.`;
   els.input.disabled = true;
-  els.form.querySelector("button").disabled = true;
+  els.submit.disabled = true;
   els.reset.hidden = false;
 }
 
@@ -238,7 +238,7 @@ function newGame() {
   els.error.hidden = true;
   els.reset.hidden = true;
   els.input.disabled = false;
-  els.form.querySelector("button").disabled = false;
+  els.submit.disabled = false;
   els.input.value = "";
 }
 
@@ -246,7 +246,13 @@ async function init() {
   const res = await fetch("data/athletes.json");
   const data = await res.json();
   athletes = data.athletes.map(buildAthlete);
-  els.list.innerHTML = athletes.map(a => `<option value="${a.name}">`).join("");
+  createCombobox({
+    input: els.input, toggle: document.getElementById("combo-toggle"),
+    list: document.getElementById("athlete-listbox"),
+    getOptions: () => athletes.map(a => a.name),
+    isUsed: name => guessedNames.has(name),
+    emptyText: "No matches",
+  });
   els.form.addEventListener("submit", submitGuess);
   els.reset.addEventListener("click", newGame);
   newGame();

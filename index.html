@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Statlete — guess the athlete</title>
+<title>Stathlete — guess the athlete</title>
 <meta name="description" content="A daily-style guessing game for track and field: work out the mystery athlete from country, age, medals, points score and revealed personal bests.">
 <link rel="icon" href="data:,">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,7 +15,7 @@
 <div class="wrap">
 
   <header class="site-header">
-    <h1>Statlete</h1>
+    <h1>Stathlete</h1>
     <p class="tagline">Guess the mystery track and field athlete.</p>
     <nav class="modes" aria-label="Game mode">
       <a href="index.html" aria-current="page">World</a>
@@ -31,10 +31,13 @@
 
       <form id="guess-form" autocomplete="off">
         <label for="guess-input" class="sr-only">Athlete name</label>
-        <input id="guess-input" list="athlete-list" placeholder="Type an athlete's name" autocomplete="off">
-        <button type="submit">Guess</button>
+        <div class="combo">
+          <input id="guess-input" role="combobox" aria-expanded="false" aria-controls="athlete-listbox" aria-autocomplete="list" placeholder="Type an athlete's name" autocomplete="off" spellcheck="false">
+          <button type="button" id="combo-toggle" class="combo-toggle" aria-label="Show all athletes" tabindex="-1"></button>
+          <ul id="athlete-listbox" class="combo-list" role="listbox" hidden></ul>
+        </div>
+        <button type="submit" id="guess-submit">Guess</button>
       </form>
-      <datalist id="athlete-list"></datalist>
 
       <p id="error" class="error" role="alert" hidden></p>
       <p id="status" class="status" role="status"></p>
@@ -50,6 +53,7 @@
   </footer>
 
 </div>
+<script src="combobox.js"></script>
 <script src="script.js"></script>
 </body>
 </html>

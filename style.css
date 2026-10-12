@@ -277,3 +277,55 @@ button:disabled { opacity: 0.5; cursor: default; }
   color: var(--muted);
   margin: 0.8rem 0 0.4rem;
 }
+
+/* --- combobox (replaces datalist) --- */
+.combo { position: relative; flex: 1; min-width: 0; }
+.combo #guess-input { width: 100%; padding-right: 2.4rem; }
+
+.combo-toggle {
+  position: absolute;
+  top: 1px; right: 1px; bottom: 1px;
+  width: 2.3rem;
+  padding: 0;
+  border: none;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  background: transparent;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.combo-toggle:hover { opacity: 1; color: var(--ink); }
+.combo-toggle::before {
+  content: "";
+  width: 0.5rem; height: 0.5rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: translateY(-25%) rotate(45deg);
+}
+.combo-toggle[aria-expanded="true"]::before { transform: translateY(25%) rotate(-135deg); }
+
+.combo-list {
+  position: absolute;
+  z-index: 10;
+  left: 0; right: 0;
+  top: calc(100% + 4px);
+  margin: 0; padding: 0.25rem;
+  list-style: none;
+  max-height: 16rem;
+  overflow-y: auto;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+.combo-list[hidden] { display: none; }
+.combo-list li {
+  padding: 0.45rem 0.6rem;
+  border-radius: 2px;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+.combo-list li.active, .combo-list li:hover { background: var(--nomatch-bg); }
+.combo-list li.used { color: var(--muted); text-decoration: line-through; }
+.combo-list li.combo-empty { color: var(--muted); cursor: default; }

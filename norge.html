@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Statlete Norge — gjett utøveren</title>
+<title>Stathlete Norge — gjett utøveren</title>
 <meta name="description" content="Gjett den norske friidrettsutøveren ut fra klubb, krets, fødselsår, UM-medaljer, Tyrvingpoeng og personlige rekorder.">
 <link rel="icon" href="data:,">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,7 +15,7 @@
 <div class="wrap">
 
   <header class="site-header">
-    <h1>Statlete</h1>
+    <h1>Stathlete</h1>
     <p class="tagline">Gjett den norske friidrettsutøveren.</p>
     <nav class="modes" aria-label="Spillmodus">
       <a href="index.html">Verden</a>
@@ -31,10 +31,13 @@
 
       <form id="guess-form" autocomplete="off">
         <label for="guess-input" class="sr-only">Utøvernavn</label>
-        <input id="guess-input" list="athlete-list" placeholder="Skriv et utøvernavn" autocomplete="off">
-        <button type="submit">Gjett</button>
+        <div class="combo">
+          <input id="guess-input" role="combobox" aria-expanded="false" aria-controls="athlete-listbox" aria-autocomplete="list" placeholder="Skriv et utøvernavn" autocomplete="off" spellcheck="false">
+          <button type="button" id="combo-toggle" class="combo-toggle" aria-label="Vis alle utøvere" tabindex="-1"></button>
+          <ul id="athlete-listbox" class="combo-list" role="listbox" hidden></ul>
+        </div>
+        <button type="submit" id="guess-submit">Gjett</button>
       </form>
-      <datalist id="athlete-list"></datalist>
 
       <p id="error" class="error" role="alert" hidden></p>
       <p id="status" class="status" role="status"></p>
@@ -49,6 +52,7 @@
   </footer>
 
 </div>
+<script src="combobox.js"></script>
 <script src="norge.js"></script>
 </body>
 </html>
