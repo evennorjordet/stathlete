@@ -1,0 +1,308 @@
+body {
+  font-family:arial;
+  color:black;
+  background-color:white;
+  font-size:13px;
+  text-align:center;
+}
+div {
+  margin: auto; 
+  width:1000px;
+}
+#startheader {
+  clear:both;
+}
+#header {
+  background-color:silver;
+  color:black;
+  text-transform: uppercase;
+  border:1px solid black;
+  width:998px;
+  margin-top:2;
+}
+#headerforbuttons {
+  background-color:silver;
+  color:black;
+  border:1px solid black;
+  width:998px;
+  margin-top:2;
+  margin-bottom:5;
+  display:flex;
+  align-items:left;
+}
+
+#tableinheader {
+  font-family:arial,sans-serif;
+  color:black;
+  background-color:silver;
+  border:1px solid black;
+  font-size:13px;
+  text-align:left; 
+  margin-top:5;
+  margin-left:2;
+  margin-bottom:2;
+  width:500px;
+}
+#tdinheader {
+  text-align:left;  
+  border:none;  
+}
+
+#header2 {
+  background-color:darkgrey;
+  color:black;
+  border:1px solid black;
+  width:998px;
+  margin-top:20;
+}
+#inputheader {
+  margin-top:5;
+  margin-bottom:2;
+  text-align:left;
+}
+#classheader {
+  background-color:black;
+  color:white;
+  text-transform: uppercase;
+  border:1px solid black;
+  width:998px;
+  margin-top:20;
+  clear:both;
+}
+#eventheader {
+  background-color:white;
+  color:black;
+  text-transform: uppercase;
+  width:1000px;
+  margin-left:0;
+  margin-top:10;
+}
+#footer {
+  background-color:lightgrey;
+  clear:both;
+  text-align:center;
+  border:1px solid;
+  width:998px;
+  margin-top:2;
+}
+#athlete {
+  background-color:silver;
+  border:1px solid;
+  width:998px;
+  text-align:left;
+  margin-top:2;
+  float:left;
+  padding-top:5;
+  padding-bottom:5;
+}
+#textright {
+  float:right;
+  width:25%;
+  text-align:right;
+  font-weight: bold;
+  margin-top:5;
+  margin-bottom:4;
+  padding-right:2;
+  padding-top:14;
+  padding-bottom:0;
+}
+#inputbutton {
+  background-color:black;
+  font-weight: bold;
+  color:white;
+  border:1px solid black;
+  width:90px;
+  height:30px;
+  margin-top:5;
+  margin-bottom:8;
+  margin-right:2;
+  float:left;
+}
+#inputbutton:hover {
+  background-color: lightgrey;
+  color: black;
+}
+#smallbutton {
+  background-color:lightgrey;
+  color:black;
+  border:1px solid black;
+  width:90px;
+  height:30px;
+  margin-top:2;
+  margin-bottom:2;
+  margin-left:2;
+}
+#smallbutton:hover {
+  background-color: white;
+  color: black;
+}
+#mediumsinglebutton {
+  background-color:darkgrey;
+  color:black;
+  border:none;
+  width:200px;
+  height:25px;
+  float:left;
+}
+#mediumactivesinglebutton {
+  background-color:lightgrey;
+  color:black;
+  border:none;
+  width:200px;
+  height:25px;
+  float:left;
+}
+#selectbutton {
+  background-color:darkgrey;
+  font-weight: bold;
+  color:black;
+  border:1px solid black;
+  margin-left:2;
+  width:248px;
+  height:25px;
+  float:left;
+}
+#leftselectbutton {
+  background-color:darkgrey;
+  font-weight: bold;
+  color:black;
+  border:1px solid black;
+  margin-left:0;
+  width:249px;
+  height:25px;
+  float:left;
+}
+#rightselectbutton {
+  background-color:darkgrey;
+  font-weight: bold;
+  color:black;
+  border:1px solid black;
+  margin-left:2;
+  width:249px;
+  height:25px;
+  float:left;
+}
+#activeselectbutton {
+  background-color:silver;
+  font-weight: bold;
+  color:black;
+  border:1px solid black;
+  margin-left:2;
+  width:248px;
+  height:25px;
+  float:left;
+}
+#activeleftselectbutton {
+  background-color:silver;
+  font-weight: bold;
+  color:black;
+  border:1px solid black;
+  margin-left:0;
+  width:249px;
+  height:25px;
+  float:left;
+}
+#activerightselectbutton {
+  background-color:silver;
+  font-weight: bold;
+  color:black;
+  border:1px solid black;
+  margin-left:2;
+  width:249px;
+  height:25px;
+  float:left;
+}
+#selectbutton:hover {
+  background-color: white;
+  color: black;
+}
+#leftselectbutton:hover {
+  background-color: white;
+  color: black;
+}
+#rightselectbutton:hover {
+  background-color: white;
+  color: black;
+}
+#firstformgroup {
+  margin-top:2;
+  margin-bottom:0;
+  float:left;
+}
+h1 {
+  margin-top:2;
+  margin-bottom:2;
+  margin-left:2;
+  text-align:left;
+}
+h2 {
+  margin-top:2;
+  margin-bottom:2;
+  margin-left:2;
+  text-align:left;
+}
+h3 {
+  margin-top:2;
+  margin-bottom:2;
+  margin-left:2;
+  text-align:left;
+}
+h4 {
+  margin-top:10;
+  margin-bottom:0;
+  margin-left:2;
+  text-align:left
+}
+h5 {
+  margin-top:4;
+  margin-bottom:2;
+  margin-left:2;
+  text-align:left;
+}
+h6 {
+  margin-top:4;
+  margin-bottom:2;
+  margin-left:2;
+  text-align:left;
+}
+label{
+  margin-top:2;
+  margin-bottom:2;
+  font-weight: bold;
+  padding-left:2;
+  padding-right:4;
+}
+form {
+  margin-top:7;
+  margin-bottom:2;
+  text-align:left;
+}
+#formfloatleft {
+  float:left;
+}
+
+select {
+  background-color:lightgrey;
+}
+table {
+  font-family:arial,sans-serif;
+  color:black;
+  background-color:white;
+  font-size:13px;
+  text-align:left; 
+  margin-top:1;
+  border-collapse:collapse;
+  width:1000px;
+}
+th {
+  background-color:lightgrey;
+  color:black;
+  text-align:left;     
+  border:1px solid black; 
+  padding:2px;
+}
+td {
+  text-align:left;     
+  border:1px solid black; 
+  padding:2px;
+}
