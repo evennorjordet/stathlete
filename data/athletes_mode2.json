@@ -7019,6 +7019,95 @@
       }
     },
     {
+      "id": "52357",
+      "name": "Atle Karlsen",
+      "gender": "Gutter",
+      "born": 1965,
+      "birth_date": "1965-04-18",
+      "club": "IF Minerva",
+      "region": null,
+      "um_medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "total": 0
+      },
+      "score": 1137,
+      "main_event": "1500 meter",
+      "last_season": 1995,
+      "result_count": 6,
+      "personal_bests": {
+        "outdoor": [
+          {
+            "event": "400 meter",
+            "result": "50,24",
+            "display": "50,24",
+            "value": 50.24,
+            "lower_is_better": true,
+            "points": 1006,
+            "date": "22.06.89",
+            "age": 24,
+            "featured": true
+          },
+          {
+            "event": "800 meter",
+            "result": "1,48,61",
+            "display": "1:48,61",
+            "value": 108.61,
+            "lower_is_better": true,
+            "points": 1097,
+            "date": "09.06.88",
+            "age": 23,
+            "featured": true
+          },
+          {
+            "event": "1000 meter",
+            "result": "2,20,61",
+            "display": "2:20,61",
+            "value": 140.61,
+            "lower_is_better": true,
+            "points": 1103,
+            "date": "27.07.91",
+            "age": 26,
+            "featured": true
+          },
+          {
+            "event": "1500 meter",
+            "result": "3,40,38",
+            "display": "3:40,38",
+            "value": 220.38,
+            "lower_is_better": true,
+            "points": 1137,
+            "date": "02.07.88",
+            "age": 23,
+            "featured": true
+          },
+          {
+            "event": "3000 meter",
+            "result": "8,16,95",
+            "display": "8:16,95",
+            "value": 496.95,
+            "lower_is_better": true,
+            "points": 1070,
+            "date": "20.05.95",
+            "age": 30,
+            "featured": true
+          },
+          {
+            "event": "400 meter hekk (91,4cm)",
+            "result": "59,77",
+            "display": "59,77",
+            "value": 59.77,
+            "lower_is_better": true,
+            "points": 854,
+            "date": "04.07.84",
+            "age": 19
+          }
+        ],
+        "indoor": []
+      }
+    },
+    {
       "id": "54341",
       "name": "Lisa-Marie Finstad",
       "gender": "Jenter",
